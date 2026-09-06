@@ -13,8 +13,8 @@ main:
   - title: "Codes & Scripts"
     url: /codes_scripts/
     
-  - title: "Datasets"
-    url: /datasets/ 
+  - title: "Resources & Datasets"
+    url: /resources_datasets/ 
     
   - title: "Publications"
     url: /publications/   
