@@ -1,9 +1,11 @@
 ---
-layout: archive
-title: "Siavash Shami - Personal Website"
-show_title: false
-permalink: /home/
+permalink: /
+title: ""
+excerpt: "Home"
 author_profile: true
+redirect_from: 
+  - /home/
+  - /home.html
     
 ---
 ## About
