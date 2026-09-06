@@ -61,22 +61,11 @@ kramdown:
   smart_quotes           : lsquo,rsquo,ldquo,rdquo
   enable_coderay         : false
 
+# Collections
 collections:
   publications:
-    output: true
-    permalink: /:collection/:path/
-  code:
-    output: true
-    permalink: /resources/code/:path/
-  software:
-    output: true
-    permalink: /resources/software/:path/
-  data_pages:
-    output: true
-    permalink: /resources/data/:path/
-  tutorials:
-    output: true
-    permalink: /resources/tutorials/:path/
+    output               : true
+    permalink            : /:collection/:path/
 
 # Defaults
 defaults:
