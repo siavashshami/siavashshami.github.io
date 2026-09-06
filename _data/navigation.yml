@@ -2,7 +2,7 @@
 main:
 
   - title: "Home"
-    url: /home1/
+    url: /home/
     
   - title: "Experiences"
     url: /experiences/
