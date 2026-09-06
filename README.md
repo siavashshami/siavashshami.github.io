@@ -1,21 +1,12 @@
-# 🌐 Siavash Shami | Personal Website
+# Siavash Shami | Personal Website
 
 [![Website](https://img.shields.io/badge/Website-siavashshami.github.io-blue?style=flat-square&logo=github)](https://siavashshami.github.io)
-[![GitHub last commit](https://img.shields.io/github/last-commit/siavashshami/siavashshami.github.io?style=flat-square)](https://github.com/siavashshami/siavashshami.github.io/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Jekyll](https://img.shields.io/badge/Built%20with-Jekyll-cc0000?style=flat-square&logo=jekyll)](https://jekyllrb.com/)
+[![Built with Jekyll](https://img.shields.io/badge/Built%20with-Jekyll-cc0000?style=flat-square&logo=jekyll)](https://jekyllrb.com/)
 
 ---
 
-## 🚀 Live Site
-
-👉 **[https://siavashshami.github.io](https://siavashshami.github.io)**
-
-This is the official personal website of **Siavash Shami**, a researcher specializing in **Geodesy**, **InSAR**, and **Remote Sensing**. The site serves as an academic portfolio, showcasing publications, skills, and professional experiences.
-
----
-
-## 👨‍🔬 About the Author
+## About Me
 
 **Siavash Shami**  
 M.Sc. in Geodesy – K.N. Toosi University of Technology (KNTU)  
@@ -32,4 +23,28 @@ B.Sc. in Surveying Engineering – University of Qom
 
 ---
 
-## 🗂️ Repository Structure
+## Connect with Me
+
+- 📧 **Email:** [siavashshami@email.kntu.ac.ir](mailto:siavashshami@email.kntu.ac.ir)  
+- 🔗 **ORCID:** [0000-0002-6369-7170](https://orcid.org/0000-0002-6369-7170)  
+- 📝 **Google Scholar:** [ZBOVn9cAAAAJ](https://scholar.google.com/citations?user=ZBOVn9cAAAAJ&hl=en)  
+- 🧪 **ResearchGate:** [Siavash-Shami](https://www.researchgate.net/profile/Siavash-Shami)  
+- 💻 **GitHub:** [siavashshami](https://github.com/siavashshami)  
+- 🔗 **LinkedIn:** [siavashshami](https://linkedin.com/in/siavashshami)
+
+---
+
+## License
+
+This project is open-source and distributed under the **MIT License**.
+
+---
+
+## Acknowledgments
+
+- Built with ❤️ and [Jekyll](https://jekyllrb.com/)
+- Hosted on [GitHub Pages](https://pages.github.com/)
+
+---
+
+© 2026 Siavash Shami. All rights reserved.
