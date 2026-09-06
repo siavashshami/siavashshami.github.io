@@ -6,13 +6,6 @@ permalink: /publications/
 author_profile: true
 
 ---
-{% include base_path %}
-
-{% for post in site.software reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
----
 <div class="pub-item" style="display: flex; align-items: flex-start; gap: 10px;"> <div class="pub-text" style="flex-grow: 1;"> 17. Karami, E., <strong>Shami, S.</strong>, Maghsoudi, Y., Ranjgar, B., & Azadnejad, S. (2025). Investigating the InSAR Phase Bias in the SBAS Algorithm and Its effect on different Landcovers. <i>IEEE Access</i> (peer-reviewed: Research Article) <br> <a href="https://doi.org/10.1109/ACCESS.2025.3568144" target="_blank" style="text-decoration:none; color: black;">doi.org/10.1109/ACCESS.2025.3568144</a> </div> <div class="pub-image" style="flex-shrink: 0;"> <a target="_blank" rel="noopener noreferrer" style="display: inline-block;"> <img src="/images/17.png" alt="main_page_banner" style="height: 70px; width: 100px; max-width: 100%; object-fit: contain; display: block;" /> </a> </div> </div>
 ---
 <div class="pub-item" style="display: flex; align-items: flex-start; gap: 10px;"> <div class="pub-text" style="flex-grow: 1;"> 16. Naboureh, A., Li, A., Bian, J., Lei, G., Nan, X., Zhang, Z., <strong>Shami, S.</strong> & Lin, X. (2024). Green space coverage versus air pollution: a cloud-based remote sensing data analysis in Sichuan, Western China. <i>International Journal of Digital Earth</i> (peer-reviewed: Research Article) <br> <a href="https://doi.org/10.1080/17538947.2024.2383454" target="_blank" style="text-decoration:none; color: black;">doi.org/10.1080/17538947.2024.2383454</a> </div> <div class="pub-image" style="flex-shrink: 0;"> <a target="_blank" rel="noopener noreferrer" style="display: inline-block;"> <img src="/images/16.png" alt="main_page_banner" style="height: 70px; width: 100px; max-width: 100%; object-fit: contain; display: block;" /> </a> </div> </div>
