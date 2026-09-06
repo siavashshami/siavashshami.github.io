@@ -36,14 +36,14 @@ B.Sc. in Surveying Engineering – University of Qom
 
 ## License
 
-This project is open-source and distributed under the **MIT License**.
+This project is open-source and distributed under the MIT License.
 
 ---
 
 ## Acknowledgments
 
-- Built with ❤️ and [Jekyll](https://jekyllrb.com/)
-- Hosted on [GitHub Pages](https://pages.github.com/)
+- Built with Jekyll
+- Hosted on GitHub Pages
 
 ---
 
