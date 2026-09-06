@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /home/
   - /home.html
+    
 ---
 ## About
 <p style="text-align: justify; text-justify: inter-ideograph; direction: ltr; width: 100%;">
