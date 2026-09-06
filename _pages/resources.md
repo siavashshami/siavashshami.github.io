@@ -1,7 +1,9 @@
 ---
+layout: archive
 title: "Resources"
+show_title: false
 permalink: /resources/
-layout: single
+author_profile: true
 ---
 
 ## 💻 Codes & Scripts
