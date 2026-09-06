@@ -1,0 +1,14 @@
+# main links links
+main:
+
+  - title: "Home"
+    url: /home/
+    
+  - title: "Experiences"
+    url: /experiences/
+
+  - title: "Skills"
+    url: /skills/ 
+    
+  - title: "Publications"
+    url: /publications/   
