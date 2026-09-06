@@ -8,8 +8,15 @@ Welcome to my **Resources** page. Here you will find a curated collection of too
 
 ---
 
-## 💻 Codes & Scripts
+## 📑 Quick Access
+- [💻 Codes & Scripts](#codes)
+- [🛠️ Software](#software)
+- [📊 Datasets](#datasets)
+- [📚 Tutorials](#tutorials)
 
+---
+
+## 💻 Codes & Scripts {#codes}
 {% if site.code.size > 0 %}
   {% for item in site.code %}
   - 🐍 [**{{ item.title }}**]({{ item.url }})  
@@ -21,8 +28,7 @@ Welcome to my **Resources** page. Here you will find a curated collection of too
 
 ---
 
-## 🛠️ Software
-
+## 🛠️ Software {#software}
 {% if site.software.size > 0 %}
   {% for item in site.software %}
   - ⚙️ [**{{ item.title }}**]({{ item.url }})  
@@ -34,8 +40,7 @@ Welcome to my **Resources** page. Here you will find a curated collection of too
 
 ---
 
-## 📊 Datasets
-
+## 📊 Datasets {#datasets}
 {% if site.data_pages.size > 0 %}
   {% for item in site.data_pages %}
   - 📁 [**{{ item.title }}**]({{ item.url }})  
@@ -47,8 +52,7 @@ Welcome to my **Resources** page. Here you will find a curated collection of too
 
 ---
 
-## 📚 Tutorials
-
+## 📚 Tutorials {#tutorials}
 {% if site.tutorials.size > 0 %}
   {% for item in site.tutorials %}
   - 📖 [**{{ item.title }}**]({{ item.url }})  
