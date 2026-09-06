@@ -1,14 +1,18 @@
 {% include base_path %}
 
 <div class="page__footer-copyright" style="
-    text-align: center;
-    padding: 0;
-    margin-top: 1.2em;
-    font-size: 0.9rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0.2em 0;
+    font-size: 0.85rem;
     color: #666;
     max-width: 100%;
-    word-wrap: break-word;
     line-height: 1;
 ">
-    Developed by Siavash Shami (2025 - {{ site.time | date: '%Y' }})
+    <span>Developed by Siavash Shami (2026 - {{ site.time | date: '%Y' }})</span>
+    <span style="font-size: 0.7rem; color: #bbb;">
+        Theme: <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" target="_blank" style="color: #bbb; text-decoration: none; border-bottom: 1px dotted #ddd;">Minimal Mistakes</a>
+    </span>
 </div>
