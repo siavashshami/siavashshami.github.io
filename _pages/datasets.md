@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Datasets"
+title: "Resources & Datasets"
 show_title: false
-permalink: /datasets/
+permalink: /resources_datasets/
 author_profile: true
 
 ---
