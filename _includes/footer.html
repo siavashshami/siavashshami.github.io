@@ -1,32 +1,5 @@
 {% include base_path %}
 
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-
-    {% if site.author.linkedin %}
-      <li><a href="https://linkedin.com/in/{{ site.author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
-    {% endif %}
-
-    {% if site.author.googlescholar %}
-      <li><a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
-    {% endif %}
-
-    {% if site.author.orcid %}
-      <li><a href="{{ site.author.orcid }}"><i class="fab fa-orcid" aria-hidden="true"></i> ORCID</a></li>
-    {% endif %}
-
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.author.name | default: site.title }}</a>.
-  {% include footer/custom.html %}
+<div class="page__footer-copyright" style="text-align: center; padding: 10px 0; font-size: 0.9em; color: #555; border-top: 1px solid #eee; margin-top: 20px;">
+    Developed by Siavash Shami (2025 - {{ site.time | date: '%Y' }})
 </div>
