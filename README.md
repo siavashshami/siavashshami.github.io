@@ -17,8 +17,7 @@ This project is open-source and distributed under the MIT License.
 
 ## Acknowledgments
 
-- Built with [Jekyll](https://jekyllrb.com/)
-- Hosted on [GitHub Pages](https://mmistakes.github.io/minimal-mistakes/)
+- Powered by [Jekyll](https://jekyllrb.com/) & [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/)
 
 ---
 
