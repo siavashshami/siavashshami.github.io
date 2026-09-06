@@ -10,6 +10,9 @@ main:
   - title: "Skills"
     url: /skills/ 
 
+  - title: "Codes"
+    url: /codes/
+    
   - title: "Datasets"
     url: /datasets/ 
     
