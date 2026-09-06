@@ -6,14 +6,6 @@ permalink: /experiences/
 author_profile: true
 
 ---
-
-{% include base_path %}
-
-{% for post in site.software reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 ## Scientific Reviewer for publications of
 ---
 **Elsevier:** <a href="https://www.sciencedirect.com/journal/gondwana-research" target="_blank" style="text-decoration:none; color: inherit;">Gondwana Research (1)</a>, <a href="https://www.sciencedirect.com/journal/advances-in-space-research" target="_blank" style="text-decoration:none; color: inherit;">Advances in Space Research (1)</a>, <a href="https://www.sciencedirect.com/journal/remote-sensing-applications-society-and-environment" target="_blank" style="text-decoration:none; color: inherit;">Remote Sensing Applications: Society and Environment (3)</a><br>
