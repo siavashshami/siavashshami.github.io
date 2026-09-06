@@ -1,42 +1,63 @@
 ---
 title: "Resources"
 permalink: /resources/
-layout: default
+layout: single
+---
+
+Welcome to my **Resources** page. Here you will find a curated collection of tools, datasets, and materials I have developed or contributed to during my research in **Geodesy**, **InSAR**, and **Remote Sensing**. Feel free to explore, download, and use them in your own work.
 
 ---
 
-# Resources
+## 💻 Codes & Scripts
 
-Welcome to my resources page. Here you can find my codes, software, datasets, and tutorials.
-
-## Codes & Scripts
-
-{% for item in site.code %}
-- [{{ item.title }}]({{ item.url }})
+{% if site.code.size > 0 %}
+  {% for item in site.code %}
+  - 🐍 [**{{ item.title }}**]({{ item.url }})  
+    {{ item.excerpt }}
+  {% endfor %}
 {% else %}
-No codes available yet.
-{% endfor %}
+<p style="color: #888;">No codes available yet. Check back later!</p>
+{% endif %}
 
-## Software
+---
 
-{% for item in site.software %}
-- [{{ item.title }}]({{ item.url }})
+## 🛠️ Software
+
+{% if site.software.size > 0 %}
+  {% for item in site.software %}
+  - ⚙️ [**{{ item.title }}**]({{ item.url }})  
+    {{ item.excerpt }}
+  {% endfor %}
 {% else %}
-No software available yet.
-{% endfor %}
+<p style="color: #888;">No software available yet. Check back later!</p>
+{% endif %}
 
-## Datasets
+---
 
-{% for item in site.data_pages %}
-- [{{ item.title }}]({{ item.url }})
+## 📊 Datasets
+
+{% if site.data_pages.size > 0 %}
+  {% for item in site.data_pages %}
+  - 📁 [**{{ item.title }}**]({{ item.url }})  
+    {{ item.excerpt }}
+  {% endfor %}
 {% else %}
-No datasets available yet.
-{% endfor %}
+<p style="color: #888;">No datasets available yet. Check back later!</p>
+{% endif %}
 
-## Tutorials
+---
 
-{% for item in site.tutorials %}
-- [{{ item.title }}]({{ item.url }})
+## 📚 Tutorials
+
+{% if site.tutorials.size > 0 %}
+  {% for item in site.tutorials %}
+  - 📖 [**{{ item.title }}**]({{ item.url }})  
+    {{ item.excerpt }}
+  {% endfor %}
 {% else %}
-No tutorials available yet.
-{% endfor %}
+<p style="color: #888;">No tutorials available yet. Check back later!</p>
+{% endif %}
+
+---
+
+*Last updated: {{ site.time | date: '%B %d, %Y' }}*
