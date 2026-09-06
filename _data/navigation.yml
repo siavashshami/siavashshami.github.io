@@ -10,7 +10,7 @@ main:
   - title: "Skills"
     url: /skills/ 
 
-    - title: "Resources"
+  - title: "Resources"
     url: /resources/ 
     
   - title: "Publications"
