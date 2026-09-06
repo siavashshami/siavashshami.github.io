@@ -1,9 +1,6 @@
 # Siavash Shami | Personal Website
 
 [![Website](https://img.shields.io/badge/Website-siavashshami.github.io-blue?style=flat-square&logo=github)](https://siavashshami.github.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Built with Jekyll](https://img.shields.io/badge/Built%20with-Jekyll-cc0000?style=flat-square&logo=jekyll)](https://jekyllrb.com/)
-
 ---
 
 ## About Me
@@ -20,17 +17,6 @@ B.Sc. in Surveying Engineering – University of Qom
 
 - 🛠️ **Skills:**  
   Python, MATLAB, InSAR Processing (SNAP, ISCE, GMTSAR), GIS (QGIS, ArcGIS), Remote Sensing
-
----
-
-## Connect with Me
-
-- 📧 **Email:** [siavashshami@email.kntu.ac.ir](mailto:siavashshami@email.kntu.ac.ir)  
-- 🔗 **ORCID:** [0000-0002-6369-7170](https://orcid.org/0000-0002-6369-7170)  
-- 📝 **Google Scholar:** [ZBOVn9cAAAAJ](https://scholar.google.com/citations?user=ZBOVn9cAAAAJ&hl=en)  
-- 🧪 **ResearchGate:** [Siavash-Shami](https://www.researchgate.net/profile/Siavash-Shami)  
-- 💻 **GitHub:** [siavashshami](https://github.com/siavashshami)  
-- 🔗 **LinkedIn:** [siavashshami](https://linkedin.com/in/siavashshami)
 
 ---
 
