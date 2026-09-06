@@ -1,7 +1,10 @@
 ---
-title: "Resources"
-permalink: /resources/
-layout: single
+layout: archive
+title: "Data"
+show_title: false
+permalink: /data/
+author_profile: true
+
 ---
 
 Welcome to my **Resources** page. Here you will find a collection of tools, datasets, and materials I have developed or contributed to during my research in **Geodesy**, **InSAR**, and **Remote Sensing**. Feel free to explore, download, and use them in your own work.
