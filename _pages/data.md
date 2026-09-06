@@ -6,48 +6,67 @@ permalink: /data/
 author_profile: true
 
 ---
-
-Welcome to my **Resources** page. Here you will find a collection of tools, datasets, and materials I have developed or contributed to during my research in **Geodesy**, **InSAR**, and **Remote Sensing**. Feel free to explore, download, and use them in your own work.
-
----
-
-## 💻 Codes & Scripts
-
-- 🐍 **Sample InSAR Processing Script** – A Python script for automated Sentinel-1 interferogram generation.  
-  [View details →](/files/sample_script.py)
-
-- 🐍 **Time-Series Analysis Tool** – MATLAB code for extracting displacement time-series from radar data.  
-  [View details →](https://github.com/siavashshami/time-series-tool)
-
----
-
-## 🛠️ Software
-
-- ⚙️ **InSAR Processing Suite** – A desktop application for full InSAR workflow (download, process, visualize).  
-  [View details →](/files/software/insar-suite.zip)
-
-- ⚙️ **Geodetic Toolbox** – A collection of MATLAB scripts for geodetic calculations.  
-  [View details →](https://github.com/siavashshami/geodetic-toolbox)
-
----
-
 ## 📊 Datasets
 
-- 📁 **Tehran InSAR Dataset (2018–2020)** – 60 Sentinel-1 images over the Tehran region.  
-  [View details →](https://drive.google.com/drive/folders/...)
+### 🗂️ Dataset 1: Tehran InSAR Dataset (2018–2020)
 
-- 📁 **Global Ionospheric Maps** – A curated dataset for ionospheric delay correction.  
-  [View details →](/files/datasets/ionospheric-maps.zip)
+<details>
+  <summary><strong>📌 Click to view details</strong></summary>
+
+  **Description:**  
+  This dataset contains 60 Sentinel-1 images acquired over the Tehran region between 2018 and 2020. It is suitable for InSAR time-series analysis and displacement monitoring.
+
+  **Format:** GeoTIFF  
+  **Size:** 2.3 GB (compressed)  
+  **Temporal Coverage:** 2018-01-01 to 2020-12-31  
+
+  **Download Link:**  
+  [Download from Google Drive](https://drive.google.com/drive/folders/...)
+
+  **Citation:**  
+  If you use this dataset, please cite:  
+  Shami, S. et al. (2024). "Tehran InSAR Time-Series Analysis." *Remote Sensing Journal*.
+</details>
 
 ---
 
-## 📚 Tutorials
+### 🗂️ Dataset 2: Global Ionospheric Maps (2023)
 
-- 📖 **Introduction to InSAR Processing** – A step-by-step guide for beginners.  
-  [View details →](/files/tutorials/insar-intro.pdf)
+<details>
+  <summary><strong>📌 Click to view details</strong></summary>
 
-- 📖 **Python for Geodesy** – A Jupyter notebook with practical examples.  
-  [View details →](https://github.com/siavashshami/python-geodesy)
+  **Description:**  
+  A curated dataset of global ionospheric maps (GIMs) for ionospheric delay correction in satellite geodesy.
+
+  **Format:** IONEX  
+  **Size:** 450 MB  
+
+  **Download Link:**  
+  [Download from GitHub](https://github.com/siavashshami/ionospheric-maps)
+
+  **Citation:**  
+  Shami, S. (2023). "Global Ionospheric Maps for InSAR." *Zenodo*.
+</details>
+
+---
+
+### 🗂️ Dataset 3: Sample InSAR Data (Testing)
+
+<details>
+  <summary><strong>📌 Click to view details</strong></summary>
+
+  **Description:**  
+  A small sample dataset (5 images) for testing and learning InSAR processing workflows.
+
+  **Format:** GeoTIFF + XML metadata  
+  **Size:** 120 MB  
+
+  **Download Link:**  
+  [Download from Google Drive](https://drive.google.com/file/d/...)
+
+  **Citation:**  
+  Shami, S. (2025). "Sample InSAR Data." *Figshare*.
+</details>
 
 ---
 
