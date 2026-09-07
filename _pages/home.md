@@ -18,7 +18,7 @@ redirect_from:
 - Geodesy and earth crustal deformation
 - Satellite remote sensing
 - AI for earth sciences applications
-- Infrastructure and geohazard monitoring
+- Infrastructure monitoring, geohazard, & Climate‑Driven land deformation
 
 ## Educational Background
 **M.Sc. in Geodesy**<br>
