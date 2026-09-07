@@ -1,9 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: ""
-show_title: false
-permalink: /home/
+excerpt: "Home"
 author_profile: true
+redirect_from: 
+  - /home/
+  - /home.html
     
 ---
 ## About
