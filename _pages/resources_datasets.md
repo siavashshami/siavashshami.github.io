@@ -38,7 +38,7 @@ author_profile: true
 
     <div style="margin-top: 1.2rem; padding: 0.8rem 1rem; background: #f9f9f9; border-left: 4px solid #3498db; border-radius: 4px; font-size: 0.92rem; color: #555;">
       <strong>📜 Citation:</strong><br>
-      Shami, S. et al. (2024). "Tehran InSAR Time-Series Analysis." <em>Remote Sensing Journal</em>.
+      Shami, S. et al. (2024). "Tehran InSAR Time-Series Analysis." <em>Remote Sensing Journal
     </div>
 
   </div>
