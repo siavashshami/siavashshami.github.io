@@ -20,7 +20,7 @@ author_profile: true
 
     <p style="font-size: 1rem; line-height: 1.7; color: #444;">
       <strong>📌 Description:</strong><br>
-This dataset compiles multi‑source geospatial and deformation measurements for the Kashan plain, Iran, specifically designed to assess ground subsidence along the railway corridor. It includes cumulative LOS and 2D displacement maps derived from NSBAS processing, GPS observations for validation and velocity estimation, digitized fault line vectors (active and major structures). All layers are provided in standard GIS‑compatible formats (Dat, GeoTIFF, Shapefile).    </p>
+This dataset compiles multi‑source geospatial and deformation measurements for the Kashan plain, Iran, specifically designed to assess ground subsidence along the railway corridor. It includes LOS and 2D displacement maps derived from NSBAS processing, GPS observations for validation and velocity estimation, digitized fault line vectors (active and major structures). All layers are provided in standard GIS‑compatible formats (Dat, GeoTIFF, Shapefile).    </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
       <span><strong>📁 Format:</strong> dat & GeoTIFF & Shapefile</span>
