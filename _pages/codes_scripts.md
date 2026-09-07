@@ -32,12 +32,11 @@ The script uses the asf_search library to query the ASF API and performs geometr
 
     <p style="margin: 0.8rem 0 0.4rem;">
       <strong>📥 Download Link:</strong><br>
-      <a href="https://zenodo.org/records/22635189?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjNhMDY1MjZjLTUwYWItNGFiMS1hNWNhLTM0YmRmZjliOTM1NiIsImRhdGEiOnt9LCJyYW5kb20iOiI3MDE1ZGNjYjM5ZDIxMzFmYTk1ZGFhZTlkZjliMjc2NiJ9.DUCQ8zVngpjopRKh3wt4z8EykCl1vG1hRwx5BPitroxUH8MEWwihAopjCQcYkE1gv12rfUMf9nYm3IQ0XDih4Q" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+      <a href="https://zenodo.org/records/22635438?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjkxY2YwMGFhLTViNDgtNGIyZi1iZGQ2LTRmNDc3YjI0OTYyMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5Y2JlNjk5YWJjZGQ3Njg4NzMwMDE2NDdiNTQxYTFlZCJ9.obyq-1wRiTKEdT9TUjknY6seXgHQeFKYCFY72Aj8tL52GGOI1_X8SvkvG0mL2PQqOwni50vjnXhiMbMiPj6LCQ" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
         🔗 Download from Zenodo
       </a>
     </p>
 
     <div style="margin-top: 1.2rem; padding: 0.8rem 1rem; background: #f9f9f9; border-left: 4px solid #3498db; border-radius: 4px; font-size: 0.92rem; color: #555;">
   </div>
-</details>
----
+
