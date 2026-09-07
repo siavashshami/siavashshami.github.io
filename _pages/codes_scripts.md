@@ -7,9 +7,7 @@ author_profile: true
 
 ---
 ---
-## 💻 Codes & Scripts
-
-<details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa;">
+<details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.5rem; background: #fafafa;">
   <summary style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🐍</span> 
     1. Sentinel-1 SLC Image Search Script
@@ -36,7 +34,7 @@ author_profile: true
   </div>
 </details>
 
-<details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa;">
+<details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.5rem; background: #fafafa;">
   <summary style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🐍</span> 
     2. Sentinel-1 SLC Image Download Script
