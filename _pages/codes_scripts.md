@@ -32,7 +32,7 @@ The script uses the asf_search library to query the ASF API and performs geometr
 
     <p style="margin: 0.8rem 0 0.4rem;">
       <strong>📥 Download Link:</strong><br>
-      <a href="https://zenodo.org/api/records/22635438/draft/files/sentinel_search_asf.zip/content" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
-        🔗 Download from Zenodo
+      <a href="https://drive.google.com/file/d/1gBqj8Rga6XRj9gBZb7oyGPVDUHy9so0G/view?usp=sharing" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+        🔗 Download from Google Drive
       </a>
     </p>
