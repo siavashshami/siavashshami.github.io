@@ -7,11 +7,10 @@ author_profile: true
 
 ---
 ---
----
 <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
   <summary style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span> 
-    5. Shah-Gheyb Salt Dome – InSAR & ML Displacement Modeling
+    6. Shah-Gheyb Salt Dome – InSAR & ML Displacement Modeling
     <span style="margin-left: auto; font-size: 0.9rem; color: #888; font-weight: 400;">
       ⬇️ Click to expand
     </span>
@@ -47,7 +46,7 @@ author_profile: true
 <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
   <summary style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span> 
-    4. Baton Rouge, Louisiana, InSAR vs. GNSS Time‑Series Comparison Script
+    5. Baton Rouge, Louisiana, InSAR vs. GNSS Time‑Series Comparison Script
     <span style="margin-left: auto; font-size: 0.9rem; color: #888; font-weight: 400;">
       ⬇️ Click to expand
     </span>
@@ -85,7 +84,7 @@ The script uses Pandas for data handling, Matplotlib for visualization, and NumP
 <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
   <summary style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span> 
-    3. Baton Rouge, Louisiana, Land Displacement Modeling – Machine Learning Codes
+    4. Baton Rouge, Louisiana, Land Displacement Modeling – Machine Learning Codes
     <span style="margin-left: auto; font-size: 0.9rem; color: #888; font-weight: 400;">
       ⬇️ Click to expand
     </span>
@@ -113,6 +112,42 @@ The script uses Pandas for data handling, Matplotlib for visualization, and NumP
     <div style="margin-top: 1.2rem; padding: 0.8rem 1rem; background: #f9f9f9; border-left: 4px solid #3498db; border-radius: 4px; font-size: 0.92rem; color: #555;">
       <strong>📜 Citation:</strong><br>
       Abdalla, A., Shami, S., Shahriari, M. A., & Azar, M. K. (2024). Estimation of land displacement in East Baton Rouge Parish, Louisiana, using InSAR: Comparisons with GNSS and machine learning models. The Egyptian Journal of Remote Sensing and Space Sciences
+    </div>
+    
+  </div>
+</details>
+---
+<details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
+  <summary style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1.4rem;">🗂️</span> 
+    3. Automated Time‑Series Extraction Along a Railway Profile Using LiCSBAS
+    <span style="margin-left: auto; font-size: 0.9rem; color: #888; font-weight: 400;">
+      ⬇️ Click to expand
+    </span>
+  </summary>
+
+  <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
+
+    <p style="font-size: 1rem; line-height: 1.7; color: #444;">
+      <strong>📌 Description:</strong><br>
+     This set of Python script and text files is designed to automate the extraction of displacement time‑series for multiple ground‑control points located along a linear feature—specifically, a railway crossing the Kashan plain, Iran—using the LiCSBAS package, which is a widely used open‑source tool for InSAR time‑series analysis. The core script, Export_text_path.py, reads a list of geographic coordinates (longitude and latitude) from a plain text file (e.g., Locations_on_railway.txt or Locatoin_across.txt) and, in a loop, constructs and executes the command LiCSBAS_cum2tstxt.py -g lon/lat -i TS_GEOCml/cum.h5 for every single point. This command extracts the cumulative displacement time‑series from a pre‑processed NSBAS output file (cum.h5) and saves the results as individual text files, each containing the time history of ground movement (dates and displacement values in millimetres) for that specific coordinate. By automating this repetitive process, the script eliminates the need for manual execution of dozens or hundreds of commands, thereby saving significant time, reducing human error (e.g., typos in coordinates or file names), and ensuring that all points are processed with identical parameters—which is crucial for producing consistent and comparable results along the railway alignment. The extracted time‑series can then be easily imported into any plotting software (GMT, Python Matplotlib, Excel, etc.) to generate displacement profiles along the track, cross‑sectional views perpendicular to the railway, and to identify critical segments with the highest subsidence rates. This approach is highly efficient, reproducible, and easily extendable to any other linear infrastructure or study area, provided that a suitable cum.h5 file and a list of target coordinates are available. In summary, the provided code turns a tedious, error‑prone manual task into a fast, reliable, and fully automated batch‑processing workflow, enabling researchers to focus on the interpretation of results rather than on repetitive data extraction.
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
+      <span><strong>📁 Format:</strong> Python & txt</span>
+      <span><strong>💾 Size:</strong> 92 KB (compressed)</span>
+    </div>
+
+    <p style="margin: 0.8rem 0 0.4rem;">
+      <strong>📥 Download Link:</strong><br>
+      <a href="https://drive.google.com/file/d/1qjRYCRBkatT96-l97QJ-4JYNSQrE4WZb/view?usp=sharing" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+        🔗 Download from Google Drive
+      </a>
+    </p>
+
+    <div style="margin-top: 1.2rem; padding: 0.8rem 1rem; background: #f9f9f9; border-left: 4px solid #3498db; border-radius: 4px; font-size: 0.92rem; color: #555;">
+      <strong>📜 Citation:</strong><br>
+      Shami, S., Azar, M. K., Nilfouroushan, F., Salimi, M., & Reshadi, M. A. M. (2022). Assessments of ground subsidence along the railway in the Kashan plain, Iran, using Sentinel-1 data and NSBAS algorithm. International Journal of Applied Earth Observation and Geoinformation
     </div>
     
   </div>
