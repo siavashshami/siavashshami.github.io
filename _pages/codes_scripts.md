@@ -39,7 +39,7 @@ The script uses Pandas for data handling, Matplotlib for visualization, and NumP
 
     <div style="margin-top: 1.2rem; padding: 0.8rem 1rem; background: #f9f9f9; border-left: 4px solid #3498db; border-radius: 4px; font-size: 0.92rem; color: #555;">
       <strong>📜 Citation:</strong><br>
-      Abdalla, A., Shami, S., Shahriari, M. A., & Azar, M. K. (2024). Estimation of land displacement in East Baton Rouge Parish, Louisiana, using InSAR: Comparisons with GNSS and machine learning models. The Egyptian Journal of Remote Sensing and Space Sciences</em>.
+      Abdalla, A., Shami, S., Shahriari, M. A., & Azar, M. K. (2024). Estimation of land displacement in East Baton Rouge Parish, Louisiana, using InSAR: Comparisons with GNSS and machine learning models. The Egyptian Journal of Remote Sensing and Space Sciences
     </div>
     
   </div>
@@ -75,7 +75,7 @@ The script uses Pandas for data handling, Matplotlib for visualization, and NumP
 
     <div style="margin-top: 1.2rem; padding: 0.8rem 1rem; background: #f9f9f9; border-left: 4px solid #3498db; border-radius: 4px; font-size: 0.92rem; color: #555;">
       <strong>📜 Citation:</strong><br>
-      Abdalla, A., Shami, S., Shahriari, M. A., & Azar, M. K. (2024). Estimation of land displacement in East Baton Rouge Parish, Louisiana, using InSAR: Comparisons with GNSS and machine learning models. The Egyptian Journal of Remote Sensing and Space Sciences</em>.
+      Abdalla, A., Shami, S., Shahriari, M. A., & Azar, M. K. (2024). Estimation of land displacement in East Baton Rouge Parish, Louisiana, using InSAR: Comparisons with GNSS and machine learning models. The Egyptian Journal of Remote Sensing and Space Sciences
     </div>
     
   </div>
