@@ -11,10 +11,7 @@ main:
     url: /skills/ 
 
   - title: "Codes & Scripts"
-    url: /codes_scripts/
-    
-  - title: "Resources & Datasets"
-    url: /resources_datasets/ 
+    url: /codes_scripts/ 
     
   - title: "Publications"
     url: /publications/   
