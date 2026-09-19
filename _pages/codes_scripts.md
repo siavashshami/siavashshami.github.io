@@ -189,7 +189,7 @@ The script uses the asf_search library to query the ASF API and performs geometr
 <br>
 <br>
 
----
+
 ## GEE
 ---
 <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
