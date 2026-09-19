@@ -172,13 +172,12 @@ The script uses the asf_search library to query the ASF API and performs geometr
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
       <span><strong>📁 Format:</strong> Python</span>
-      <span><strong>💾 Size:</strong> 9 KB (compressed)</span>
     </div>
 
     <p style="margin: 0.8rem 0 0.4rem;">
       <strong>📥 Download Link:</strong><br>
-      <a href="https://drive.google.com/file/d/1gBqj8Rga6XRj9gBZb7oyGPVDUHy9so0G/view?usp=sharing" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
-        🔗 Download from Google Drive
+      <a href="https://github.com/siavashshami/InSAR-tools/tree/main/satellites/sentinel-1/Sentinel-1%20SLC%20Image%20Search%20Script%20using%20ASF" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+        🔗 Download from Github
       </a>
     </p>
   </div>
