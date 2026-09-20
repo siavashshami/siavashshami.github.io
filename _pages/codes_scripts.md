@@ -202,13 +202,12 @@ The script uses the asf_search library to query the ASF API and performs geometr
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
       <span><strong>📁 Format:</strong> Python & CSV</span>
-      <span><strong>💾 Size:</strong> 3 MB (compressed)</span>
     </div>
 
     <p style="margin: 0.8rem 0 0.4rem;">
       <strong>📥 Download Link:</strong><br>
-      <a href="https://drive.google.com/file/d/1yCh4zIeZnelCvoAzFzdiJLow6t4_GIBH/view?usp=sharing" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
-        🔗 Download from Google Drive
+      <a href="https://github.com/siavashshami/AI-research/tree/main/machine-learning/Shah-Gheyb%20Salt%20Dome%20-%20InSAR%20%26%20ML%20Displacement%20Modeling" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+        🔗 Download from GitHub
       </a>
     </p>
 
@@ -238,13 +237,12 @@ The script uses the asf_search library to query the ASF API and performs geometr
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
       <span><strong>📁 Format:</strong> Python & CSV</span>
-      <span><strong>💾 Size:</strong> 15 MB (compressed)</span>
     </div>
 
     <p style="margin: 0.8rem 0 0.4rem;">
       <strong>📥 Download Link:</strong><br>
-      <a href="https://drive.google.com/file/d/1ATATjUtCPK3-G1d_hkSp3rs9tbZ9BMb3/view?usp=sharing" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
-        🔗 Download from Google Drive
+      <a href="https://github.com/siavashshami/AI-research/tree/main/machine-learning/Baton%20Rouge%2C%20Louisiana%20-%20InSAR%20%26%20ML%20Displacement%20Modeling" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+        🔗 Download from GitHub
       </a>
     </p>
 
