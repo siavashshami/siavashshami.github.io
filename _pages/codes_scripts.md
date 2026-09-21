@@ -201,7 +201,7 @@ The script uses the asf_search library to query the ASF API and performs geometr
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
-      <span><strong>📁 Format:</strong> Java, Python & shp</span>
+      <span><strong>📁 Format:</strong> Java, Python & Shapefile</span>
     </div>
 
     <p style="margin: 0.8rem 0 0.4rem;">
