@@ -29,7 +29,7 @@ author_profile: true
 
 ## Research & Professional Experiences
 ---
-- Research Collaboration — InSAR Applications | 2023–2024<br>
+- Research Collaboration - InSAR Applications | 2023–2024<br>
 [Collaborated with Dr. Meisam Amani on InSAR-based investigations of landslides in New Zealand, dam deformation and shoreline changes in Canada, & open-pit mine deformation in South Africa]<br>
 
 - InSAR & GIS Consultant/Research Collaborator - Bonyan Zamin Co. | 2022<br>
