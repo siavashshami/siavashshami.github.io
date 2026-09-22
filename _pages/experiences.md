@@ -22,9 +22,8 @@ author_profile: true
 ## Awards and Honors
 ---
 - Ranked 1st among B.Sc. students of Surveying Engineering 
-<span style="font-size: 14pt;">
 (GPA: 3.93/4.00) | 2016
-</span>
+
 <br>
 <br>
 
