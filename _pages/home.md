@@ -22,8 +22,9 @@ Siavash Shami is a geodesist and InSAR researcher specializing in SAR-based surf
 - Machine Learning and Deep Learning for Earth Science Applications
 
 ## Education
-- **M.Sc. in Geodesy** - K. N. Toosi University of Technology, Tehran, Iran | 2018<br>
+- **M.Sc. in Geodesy** - K. N. Toosi University of Technology, Tehran, Iran | 2018
 <span style="font-size: 11pt;">
   Thesis title: <i>A Feasibility Study on the Application of InSAR for Surveying in Open Pit Mines</i> [In Persian]
-</span><br>    
+</span>
+
 - **B.Sc. in Surveying Engineering** - Eyn Ol Ghozat Higher Education Institute, Mianeh, Iran | 2016<br>
