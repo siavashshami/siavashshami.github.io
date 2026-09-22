@@ -6,62 +6,55 @@ permalink: /skills/
 author_profile: true
 
 ---
-## InSAR
+## InSAR & SAR Remote Sensing
 ---
-**Category I: Technical InSAR**<br>
-**SAR Data:** Sentinel‑1, ENVISAT, ALOS‑1/2, ERS‑1/2<br>
-**Interferometric Processing Methods:** PS‑InSAR, SBAS, NSBAS, DInSAR<br>
-Interferometric Processing & Phase Unwrapping: Multilooking & noise reduction, Interferogram Network Design & Optimization<br>
-**Error Sources & Corrections:** Atmospheric correction (ERA5, GACOS, spatial-temporal filtering), Phase-bias identification & correction<br>
-**InSAR Software & Processing Platforms:** StaMPS/MTI, GMTSAR, MintPy, ISCE, LiCSBAS, SNAP, DORIS, ROI_PAC<br>
+- SAR Data: Sentinel-1, ENVISAT, ALOS-1/2, ERS-1/2
+- InSAR Methods: PS-InSAR, SBAS, NSBAS, DInSAR
+- InSAR Processing: Multilooking, noise reduction, interferogram network design and optimization
+- Error Characterization & Corrections: Atmospheric correction (ERA5, GACOS), filtering, phase-bias analysis
+- Software & Processing Tools: StaMPS/MTI, GMTSAR, MintPy, ISCE, LiCSBAS, SNAP, DORIS, ROI_PAC
 
-**Category II: Applications & Physical Interpretation**<br>
-**Natural Hazards & Geological Deformation:** Landslide detection, earthquakes, Fault & Salt-dome deformation<br>
-**Hydrology & Environmental Deformation:** Groundwater-related deformation & land subsidence, Geological–hydrological interpretation of surface deformation, Coastal deformation & coastline displacement<br>
-**Engineering & Infrastructure Monitoring:** Railways subsidence, Dams deformation monitoring, Urban areas displacement & land subsidence, Open-pit mines displacement & deformation monitoring
+<br>
+<br>
 
-
-
-
-## Geodesy & Physical Surveying 
+## Geodesy & Geodetic Techniques
 ---
-**Fields:** Satellite Geodesy, Physical Geodesy, Levelling, Topographic Surveying<br>
-**Surveying Instrumentation:** Total Station, Nivo, Dual‑Frequency GNSS receivers<br>
-**Software:** Civil 3D, Global Mapper, Google Earth, RTKLIB
+- Satellite Geodesy and Physical Geodesy
+- GNSS: Dual-Frequency GNSS
+- Levelling and Topographic Surveying
+- Total Station and Nivo
 
+<br>
+<br>
 
-
-
-## Remote Sensing & Earth Observation 
+## Remote Sensing & Environmental Applications
 ---
-**Hydrological & Water Resources:** Soil moisture (Landsat, Sentinel-1), Groundwater storage (GRACE, piezometric well data), Precipitation (CHIRPS, TRMM)<br>
-**Land Surface & Environmental Monitoring:** Land-cover/land-use change (Sentinel-1/2, MODIS, Landsat)<br>
-**Air Quality & Climate change:** Air pollution (Sentinel-5P/TROPOMI, MODIS AOD), Climate classification & trend analysis (Köppen–Geiger, long-term climate data)<br>
-**Soil & Geomorphology:** Soil erosion modeling (RUSLE)<br>
-**Platform & Tools:** Google Earth Engine
+- Applications: Soil Moisture, Groundwater Storage, Precipitation, Land Cover, Air Pollution, Climate change, Soil Erosion
+- Data & Products: Landsat, Sentinel-1/2, MODIS, GRACE, Well Data, CHIRPS, TRMM, Sentinel-5P/TROPOMI, MODIS 
 
+<br>
+<br>
 
-
-
-## Computational & Analytical Skills
+## AI & Data Analysis
 ---
-**Artificial Intelligence & Data Science**<br>
-Machine Learning: Random Forest, XGBoost, SVM, Linear/Lasso Regression<br>
-Deep Learning: RNN/LSTM for time‑series forecasting<br>
-**Programming & Scripting**<br>
-Python: NumPy, Pandas, Matplotlib<br>
-Linux: Ubuntu<br>
-**GIS & Spatial Analysis**<br>
-QGIS: Spatial analysis, raster/vector processing, cartography<br>
+- Machine Learning: Random Forest, XGBoost, SVM, Linear Regression, Lasso Regression
+- Deep Learning: RNN, LSTM
 
+<br>
+<br>
 
+## Programming, GIS & Software
+---
+- Programming & Data Analysis: Python, NumPy, Pandas, Matplotlib
+- GIS & Remote Sensing Platforms: QGIS, Google Earth Engine
+- Surveying & Geospatial Software: Civil 3D, Global Mapper, RTKLIB
+- Operating Systems: Linux (Ubuntu)
 
+<br>
+<br>
 
 ## Languages
 ---
 Azerbaijani: Native<br>
 Persian: Native<br>
-English: Professional working proficiency
-
-
-
+English: Professional Working Proficiency
