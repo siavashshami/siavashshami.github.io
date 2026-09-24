@@ -3,15 +3,24 @@ main:
 
   - title: "Home"
     url: /home/
-    
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Codes & Scripts"
+    url: /codes_scripts/
+
   - title: "Experiences"
     url: /experiences/
 
+  - title: "Academic Service"
+    url: /academic_service/ 
+
+  - title: "Awards & Honors"
+    url: /awards_honors/ 
+
   - title: "Skills"
     url: /skills/ 
-
-  - title: "Codes & Scripts"
-    url: /codes_scripts/ 
     
   - title: "Publications"
     url: /publications/   
