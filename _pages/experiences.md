@@ -8,10 +8,10 @@ author_profile: true
 ---
 ## Education
 ---
-- M.Sc. in Geodesy<br>
+- **M.Sc. in Geodesy**<br>
 K. N. Toosi University of Technology, Iran | 2018<br>
 Thesis: <i>A Feasibility Study on the Application of InSAR for Surveying in Open Pit Mines</i> [In Persian]
-- B.Sc. in Surveying Engineering<br>
+- **B.Sc. in Surveying Engineering**<br>
 Eyn Ol Ghozat Higher Education Institute, Iran | 2016
 
 
