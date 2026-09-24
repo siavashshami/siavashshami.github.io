@@ -10,12 +10,10 @@ author_profile: true
 ---
 - SAR Data: Sentinel-1, ENVISAT, ALOS-1/2, ERS-1/2
 - InSAR Methods: PS-InSAR, SBAS, NSBAS, DInSAR
-- InSAR Processing: Multilooking, noise reduction, interferogram network design and optimization
-- Error Characterization & Corrections: Atmospheric correction (ERA5, GACOS), filtering, phase-bias analysis
+- InSAR Processing: Multilooking, noise reduction, interferogram generation, network design and optimization
+- Error Characterization & Correction: Atmospheric correction (ERA5, GACOS), filtering, phase-bias analysis
 - Software & Processing Tools: StaMPS/MTI, GMTSAR, MintPy, ISCE, LiCSBAS, SNAP, DORIS, ROI_PAC
 
-<br>
-<br>
 
 ## Geodesy & Geodetic Techniques
 ---
@@ -23,35 +21,27 @@ author_profile: true
 - GNSS: Dual-Frequency GNSS
 - Levelling and Topographic Surveying
 - Total Station and Nivo
+- Surveying & Geospatial Software: Civil 3D, Global Mapper, RTKLIB
 
-<br>
-<br>
 
 ## Remote Sensing & Environmental Applications
 ---
 - Applications: Soil Moisture, Groundwater Storage, Precipitation, Land Cover, Air Pollution, Climate change, Soil Erosion
-- Data & Products: Landsat, Sentinel-1/2, MODIS, GRACE, Well Data, CHIRPS, TRMM, Sentinel-5P/TROPOMI, MODIS 
+- Data & Products: Landsat, Sentinel-1/2, MODIS, GRACE, Well Data, CHIRPS, TRMM, Sentinel-5P/TROPOMI 
 
-<br>
-<br>
 
 ## AI & Data Analysis
 ---
 - Machine Learning: Random Forest, XGBoost, SVM, Linear Regression, Lasso Regression
 - Deep Learning: RNN, LSTM
 
-<br>
-<br>
 
-## Programming, GIS & Software
+## Programming & GIS
 ---
 - Programming & Data Analysis: Python, NumPy, Pandas, Matplotlib
 - GIS & Remote Sensing Platforms: QGIS, Google Earth Engine
-- Surveying & Geospatial Software: Civil 3D, Global Mapper, RTKLIB
 - Operating Systems: Linux (Ubuntu)
 
-<br>
-<br>
 
 ## Languages
 ---
