@@ -22,7 +22,7 @@ author_profile: true
   </p>
 
   <p style="margin-bottom: 0;">
-    Variation in RUSLE-Estimated Soil Erosion Responses to Land Use/Land Cover Change Across Major Climate Zone​.
+        This study investigates how climate modulates the response of soil erosion to Land Use/Land Cover (LULC) change across diverse global environments. A globally comparative framework combines the Revised Universal Soil Loss Equation (RUSLE) with six complementary statistical approaches, including fixed-effects panel regression, distributed lag analysis, class-specific dynamic models, and Granger causality testing, using data from six major climatic zones across Brazil, China, the USA, India, and Australia during 2004–2023. 
   </p>
 
 </div>
