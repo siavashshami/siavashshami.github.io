@@ -38,6 +38,34 @@ author_profile: true
     opacity: .85;
   }
   .lb-close:hover { opacity: 1; }
+
+  /* Thumbnail row – always horizontal */
+  .thumb-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 10px;
+    margin-bottom: 1rem;
+    align-items: stretch;
+  }
+  .thumb-row a {
+    flex: 1 1 0;
+    min-width: 0;
+    display: block;
+  }
+  .thumb-row img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+    border: 1px solid #e6e9ee;
+    transition: transform .2s, box-shadow .2s;
+  }
+  .thumb-row img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 18px rgba(30,58,95,.25);
+  }
 </style>
 
 <!-- ===== Research Card ===== -->
@@ -63,40 +91,11 @@ author_profile: true
     1. Open-Pit Mine Deformation Monitoring Using InSAR
   </h3>
 
-  <!-- Small image row (outside <details>) -->
-  <div style="
-    display: flex;
-    gap: 10px;
-    margin-bottom: 1rem;
-    flex-wrap: wrap;
-  ">
-    <a href="#img1" style="flex: 1 1 30%; min-width: 90px; max-width: 160px; display: block;">
-      <img src="images/research/open-pit-mine-01.jpg" alt=""
-           style="width: 100%; height: 90px; object-fit: cover;
-                  border-radius: 8px; display: block;
-                  border: 1px solid #e6e9ee;
-                  transition: transform .2s, box-shadow .2s;"
-           onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 6px 18px rgba(30,58,95,.25)'"
-           onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'">
-    </a>
-    <a href="#img2" style="flex: 1 1 30%; min-width: 90px; max-width: 160px; display: block;">
-      <img src="images/research/open-pit-mine-02.jpg" alt=""
-           style="width: 100%; height: 90px; object-fit: cover;
-                  border-radius: 8px; display: block;
-                  border: 1px solid #e6e9ee;
-                  transition: transform .2s, box-shadow .2s;"
-           onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 6px 18px rgba(30,58,95,.25)'"
-           onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'">
-    </a>
-    <a href="#img3" style="flex: 1 1 30%; min-width: 90px; max-width: 160px; display: block;">
-      <img src="images/research/open-pit-mine-03.jpg" alt=""
-           style="width: 100%; height: 90px; object-fit: cover;
-                  border-radius: 8px; display: block;
-                  border: 1px solid #e6e9ee;
-                  transition: transform .2s, box-shadow .2s;"
-           onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 6px 18px rgba(30,58,95,.25)'"
-           onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'">
-    </a>
+  <!-- Small image row (always horizontal, outside <details>) -->
+  <div class="thumb-row">
+    <a href="#img1"><img src="images/research/open-pit-mine-01.jpg" alt=""></a>
+    <a href="#img2"><img src="images/research/open-pit-mine-02.jpg" alt=""></a>
+    <a href="#img3"><img src="images/research/open-pit-mine-03.jpg" alt=""></a>
   </div>
 
   <!-- Hidden section (details) – text only -->
@@ -186,7 +185,7 @@ author_profile: true
   </details>
 </div>
 
-<!-- ===== Lightbox overlays (include once per page, but each card needs its own unique IDs) ===== -->
+<!-- ===== Lightbox overlays (include once per page; unique IDs per card) ===== -->
 <div id="img1" class="lb-overlay">
   <a href="#" class="lb-close">×</a>
   <img src="images/research/open-pit-mine-01.jpg" alt="">
