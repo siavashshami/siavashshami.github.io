@@ -30,7 +30,7 @@ author_profile: true
       <p>
         <strong>Study Area:</strong> Gol Gohar Sirjan Open-Pit Mine, Iran
         &nbsp; | &nbsp;
-        <strong>Period:</strong> 2018–2021
+        <strong>Period:</strong> 2017–2021
       </p>
 
       <p>
@@ -40,12 +40,12 @@ author_profile: true
 
       <p>
         <strong>Data:</strong>
-        ENVISAT radar imagery and other SAR datasets used for interferometric analysis of the mining area.
+        ENVISAT, ALOS-1, & SRTM.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        DInSAR, PS-InSAR, interferometric coherence analysis, temporal and spatial baseline analysis, DEM generation, and InSAR-based deformation monitoring.
+        DInSAR, PS-InSAR, SBAS, interferometric coherence analysis, temporal and spatial baseline analysis, DEM generation, and InSAR-based deformation monitoring.
       </p>
 
       <p>
@@ -104,7 +104,7 @@ author_profile: true
           Conference Paper - Poster Presentation
         </p>
 
-        <!-- Publication 7 -->
+        <!-- Publication 6 -->
         <p>
           <strong>7.</strong> Shami, S., &amp; Ghorbani, Z. (2019). Processing Radar Images using GMTSAR &amp; SNAP. Arshadan Press [In Persian]
           <br>
@@ -113,7 +113,7 @@ author_profile: true
           Book - Technical Book
         </p>
 
-        <!-- Publication 8 -->
+        <!-- Publication 7 -->
         <p>
           <strong>8.</strong> Hossainali, MM., &amp; Shami, S. (2020). Processing Radar Images using StaMPS. K.N. TOOSI UNIVERSITY Press [In Persian]
           <br>
@@ -124,13 +124,13 @@ author_profile: true
           Book - Technical Book
         </p>
 
-        <!-- Publication 10 -->
+        <!-- Publication 8 -->
         <p>
           <strong>10.</strong> Shami, S. (2021). GMTSAR installation and processing Guide - Practical InSAR handbook series. ebook
           <br>
           Book - Handbook
           <br>
-          DOI: 10.5281/zenodo.22609191
+           <a href="https://doi.org/10.5281/zenodo.22609191" target="_blank" style="text-decoration:none; color: black;">DOI: 10.5281/zenodo.22609191</a>
         </p>
 
       </div>
