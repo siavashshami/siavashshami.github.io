@@ -21,7 +21,7 @@ author_profile: true
 
     <a href="images/1.png" target="_blank" style="flex: 1 1 0; min-width: 0;">
       <img
-        src="images/research/open-pit-mine-01.jpg"
+        src="images/1.png"
         alt=""
         style="width: 100%; height: 150px; object-fit: cover; border-radius: 6px; display: block;">
     </a>
