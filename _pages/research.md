@@ -50,7 +50,7 @@ author_profile: true
     <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
 
       <p>
-        <strong>Study Area:</strong> Different landcovers
+        <strong>Study Area:</strong> Sosangerd, Iran
         &nbsp; | &nbsp;
         <strong>Period:</strong> 2025
       </p>
