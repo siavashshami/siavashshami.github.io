@@ -21,9 +21,7 @@ author_profile: true
 
     <p style="font-size: 1rem; line-height: 1.7; color: #444;">
       <strong>📌 Description:</strong><br>
-     This script compares InSAR and GNSS displacement time‑series at a specific station (SJB1) over the same temporal period. It loads the two datasets (InSAR and GPS) from CSV files, calculates linear velocities for both, and plots the overlapping time‑series along with the corresponding trendlines and velocity annotations. This comparison is used to validate the InSAR results against independent GNSS measurements.
-
-The script uses Pandas for data handling, Matplotlib for visualization, and NumPy for polynomial fitting. Velocities are computed in mm/year and displayed directly on the plot. The figure is saved with high resolution (500 DPI) and uses a clean academic style with Times New Roman fonts.
+     This script compares InSAR and GNSS displacement time‑series at a specific station (SJB1) over the same temporal period. It loads the two datasets (InSAR and GPS) from CSV files, calculates linear velocities for both, and plots the overlapping time‑series along with the corresponding trendlines and velocity annotations. This comparison is used to validate the InSAR results against independent GNSS measurements. The script uses Pandas for data handling, Matplotlib for visualization, and NumPy for polynomial fitting. Velocities are computed in mm/year and displayed directly on the plot. The figure is saved with high resolution (500 DPI) and uses a clean academic style with Times New Roman fonts.
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
@@ -128,11 +126,7 @@ The script uses Pandas for data handling, Matplotlib for visualization, and NumP
 
     <p style="font-size: 1rem; line-height: 1.7; color: #444;">
       <strong>📌 Description:</strong><br>
-     This script downloads Sentinel-1 Single Look Complex (SLC) images, precise orbit files (POEORB or RESORB), and Digital Elevation Model (DEM) data from the Alaska Satellite Facility (ASF) based on user-defined criteria such as date range, region, polarization, orbit direction, path, frame, and minimum coverage percentage. It supports parallel downloads with threading, batch processing, and automatic unzipping of files. The script ensures that only images meeting a minimum coverage threshold are downloaded and handles orbit files specific to each image's sensing time.
-
-The script uses the asf_search library for querying and downloading from the ASF API, rasterio for DEM merging, and geometric libraries like shapely and geopandas for coverage calculations. It includes retry mechanisms for network errors, progress logging, and graceful handling of failures (e.g., continuing without DEM if specified).
-
-This tool is particularly useful for preparing data for radar interferometry (InSAR) time-series analysis, where consistent geometry (same path and frame) and appropriate polarization are critical.
+     This script downloads Sentinel-1 Single Look Complex (SLC) images, precise orbit files (POEORB or RESORB), and Digital Elevation Model (DEM) data from the Alaska Satellite Facility (ASF) based on user-defined criteria such as date range, region, polarization, orbit direction, path, frame, and minimum coverage percentage. It supports parallel downloads with threading, batch processing, and automatic unzipping of files. The script ensures that only images meeting a minimum coverage threshold are downloaded and handles orbit files specific to each image's sensing time. The script uses the asf_search library for querying and downloading from the ASF API, rasterio for DEM merging, and geometric libraries like shapely and geopandas for coverage calculations. It includes retry mechanisms for network errors, progress logging, and graceful handling of failures (e.g., continuing without DEM if specified). This tool is particularly useful for preparing data for radar interferometry (InSAR) time-series analysis, where consistent geometry (same path and frame) and appropriate polarization are critical.
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
@@ -161,9 +155,7 @@ This tool is particularly useful for preparing data for radar interferometry (In
 
     <p style="font-size: 1rem; line-height: 1.7; color: #444;">
       <strong>📌 Description:</strong><br>
-     This script searches for Sentinel-1 Single Look Complex (SLC) images from the Alaska Satellite Facility (ASF) based on user-defined criteria such as date range, region, polarization, orbit direction, and minimum coverage percentage. It groups the results, filters groups with a minimum number of images, generates temporal distribution plots, and saves results to text files.
-
-The script uses the asf_search library to query the ASF API and performs geometric calculations for coverage using shapely and geopandas. It includes retry mechanisms for network errors and user-friendly error messages.
+     This script searches for Sentinel-1 Single Look Complex (SLC) images from the Alaska Satellite Facility (ASF) based on user-defined criteria such as date range, region, polarization, orbit direction, and minimum coverage percentage. It groups the results, filters groups with a minimum number of images, generates temporal distribution plots, and saves results to text files. The script uses the asf_search library to query the ASF API and performs geometric calculations for coverage using shapely and geopandas. It includes retry mechanisms for network errors and user-friendly error messages.
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
