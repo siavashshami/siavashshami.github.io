@@ -918,17 +918,17 @@ author_profile: true
 
       <p>
         <strong>Objective:</strong>
-        Investigation of water storage changes in Iran using GRACE and CHIRPS data in the Google Earth Engine system.
+        To investigate the spatial and temporal changes in water storage across Iran and examine their relationship with changes in precipitation. The study was designed to demonstrate how satellite-based GRACE observations and CHIRPS precipitation data can be jointly used for large-scale monitoring of water-resource conditions in an arid and semi-arid country.
       </p>
 
       <p>
         <strong>Data:</strong>
-        GRACE and CHIRPS data.
+        GRACE satellite data for water-storage changes and CHIRPS precipitation data for total annual precipitation over Iran during 2003–2017.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        Analysis of water storage changes using GRACE and CHIRPS data in the Google Earth Engine system.
+        GRACE-derived water-storage variations and CHIRPS-based annual precipitation were analyzed within the Google Earth Engine environment to characterize their temporal behavior across Iran. The two satellite-derived datasets were examined together to investigate the consistency between changes in precipitation and terrestrial water storage.
       </p>
 
       <p>
@@ -938,12 +938,12 @@ author_profile: true
 
       <p>
         <strong>Research Focus:</strong>
-        Water storage changes in Iran and satellite-based hydrological monitoring.
+        Satellite-based monitoring of terrestrial water storage and precipitation variability across Iran, with particular attention to long-term changes relevant to groundwater and water-resource conditions. The study also highlights the value of cloud-based processing for national-scale hydrological analysis.
       </p>
 
       <p>
         <strong>Key Outcome:</strong>
-        Analysis of water storage changes in Iran using GRACE and CHIRPS data in the Google Earth Engine system.
+        The analysis indicated a reduction of more than 10 cm in water storage levels in Iran during 2008–2017, while CHIRPS data showed a decrease in annual precipitation beginning around 2008. These results demonstrate the potential of combining GRACE and precipitation observations to characterize large-scale water-storage changes in Iran.
       </p>
 
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
