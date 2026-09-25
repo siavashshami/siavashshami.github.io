@@ -8,50 +8,112 @@ author_profile: true
 ---
 ## Past Research
 ---
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
+```html id="r8k2mz"
+<!-- Project 01 -->
+<div style="margin-bottom: 1.8rem;">
 
-  <!-- Title (always visible) -->
-  <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
+  <!-- Project Title -->
+  <h3 style="font-size: 1.2rem; font-weight: 600; color: #2c3e50; margin: 0 0 0.8rem 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
     1. Open-Pit Mine Deformation Monitoring Using InSAR
   </h3>
 
-  <!-- Three images in one row (always visible) -->
-  <div style="display: flex; gap: 12px; margin: 1rem 0; flex-wrap: nowrap;">
+  <!-- Project Information -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.2rem; background: #fafafa; margin-bottom: 1rem;">
 
-    <a href="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
-       target="_blank"
-       style="flex: 1 1 0; min-width: 0;">
+    <p style="margin-top: 0;">
+      <strong>Study Area:</strong> Gol Gohar Sirjan Open-Pit Mine, Iran
+      &nbsp; | &nbsp;
+      <strong>Period:</strong> 2018–2021
+    </p>
 
-      <img
-        src="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
-        alt=""
-        style="width: 100%; height: 150px; object-fit: cover; border-radius: 6px; display: block;">
-    </a>
+    <p>
+      <strong>Objective:</strong>
+      Investigation and monitoring of large-scale surface deformation in open-pit mining areas using radar interferometry and InSAR time-series techniques.
+    </p>
 
-    <a href="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
-       target="_blank"
-       style="flex: 1 1 0; min-width: 0;">
+    <p>
+      <strong>Data:</strong>
+      ENVISAT radar imagery and other SAR datasets used for interferometric analysis of the mining area.
+    </p>
 
-      <img
-        src="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
-        alt=""
-        style="width: 100%; height: 150px; object-fit: cover; border-radius: 6px; display: block;">
-    </a>
+    <p>
+      <strong>Methods:</strong>
+      DInSAR, PS-InSAR, interferometric coherence analysis, temporal and spatial baseline analysis, DEM generation, and InSAR-based deformation monitoring.
+    </p>
 
-    <a href="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
-       target="_blank"
-       style="flex: 1 1 0; min-width: 0;">
+    <p>
+      <strong>Software:</strong>
+      GMTSAR, SNAP, and StaMPS.
+    </p>
 
-      <img
-        src="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
-        alt=""
-        style="width: 100%; height: 150px; object-fit: cover; border-radius: 6px; display: block;">
-    </a>
+    <p>
+      <strong>Research Focus:</strong>
+      Open-pit mine deformation, subsidence monitoring, interferometric coherence, radar wavelength effects, and DEM-based mine-volume estimation.
+    </p>
+
+    <p style="margin-bottom: 0;">
+      <strong>Key Outcome:</strong>
+      Development of a research line focused on applying InSAR techniques to open-pit mine deformation monitoring, followed by related technical publications and InSAR processing books and handbooks.
+    </p>
 
   </div>
 
-  <!-- Hidden content -->
+  <!-- Project Images -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.2rem; background: #fafafa; margin-bottom: 1rem;">
+
+    <div style="display: flex; gap: 12px; align-items: center; flex-wrap: nowrap;">
+
+      <div class="pub-image" style="flex-shrink: 0;">
+        <a
+          href="https://siavashshami.github.io/research/images/1.png"
+          target="_blank"
+          rel="noopener noreferrer"
+          style="display: inline-block;">
+
+          <img
+            src="https://siavashshami.github.io/research/images/1.png"
+            alt="1"
+            style="height: 70px; width: 100px; max-width: 100%; object-fit: contain; display: block;" />
+
+        </a>
+      </div>
+
+      <div class="pub-image" style="flex-shrink: 0;">
+        <a
+          href="https://siavashshami.github.io/research/images/2.png"
+          target="_blank"
+          rel="noopener noreferrer"
+          style="display: inline-block;">
+
+          <img
+            src="https://siavashshami.github.io/research/images/2.png"
+            alt="2"
+            style="height: 70px; width: 100px; max-width: 100%; object-fit: contain; display: block;" />
+
+        </a>
+      </div>
+
+      <div class="pub-image" style="flex-shrink: 0;">
+        <a
+          href="https://siavashshami.github.io/research/images/3.png"
+          target="_blank"
+          rel="noopener noreferrer"
+          style="display: inline-block;">
+
+          <img
+            src="https://siavashshami.github.io/research/images/3.png"
+            alt="3"
+            style="height: 70px; width: 100px; max-width: 100%; object-fit: contain; display: block;" />
+
+        </a>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- Hidden Details -->
   <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; background: #ffffff;">
 
     <summary style="font-size: 1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
@@ -61,43 +123,7 @@ author_profile: true
 
     <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
 
-      <p>
-        <strong>Study Area:</strong> Gol Gohar Sirjan Open-Pit Mine, Iran
-        &nbsp; | &nbsp;
-        <strong>Period:</strong> 2018–2021
-      </p>
-
-      <p>
-        <strong>Objective:</strong>
-        Investigation and monitoring of large-scale surface deformation in open-pit mining areas using radar interferometry and InSAR time-series techniques.
-      </p>
-
-      <p>
-        <strong>Data:</strong>
-        ENVISAT radar imagery and other SAR datasets used for interferometric analysis of the mining area.
-      </p>
-
-      <p>
-        <strong>Methods:</strong>
-        DInSAR, PS-InSAR, interferometric coherence analysis, temporal and spatial baseline analysis, DEM generation, and InSAR-based deformation monitoring.
-      </p>
-
-      <p>
-        <strong>Software:</strong>
-        GMTSAR, SNAP, and StaMPS.
-      </p>
-
-      <p>
-        <strong>Research Focus:</strong>
-        Open-pit mine deformation, subsidence monitoring, interferometric coherence, radar wavelength effects, and DEM-based mine-volume estimation.
-      </p>
-
-      <p>
-        <strong>Key Outcome:</strong>
-        Development of a research line focused on applying InSAR techniques to open-pit mine deformation monitoring, followed by related technical publications and InSAR processing books and handbooks.
-      </p>
-
-      <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
+      <h4 style="color: #2c3e50; margin-top: 0; margin-bottom: 0.8rem;">
         Research Outputs
       </h4>
 
@@ -142,3 +168,5 @@ author_profile: true
   </details>
 
 </div>
+```
+
