@@ -8,8 +8,6 @@ author_profile: true
 ---
 ## Past Research
 ---
-```html id="r8k2mz"
-<!-- Project 01 -->
 <div style="margin-bottom: 1.8rem;">
 
   <!-- Project Title -->
@@ -168,5 +166,3 @@ author_profile: true
   </details>
 
 </div>
-```
-
