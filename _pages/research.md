@@ -179,24 +179,29 @@ author_profile: true
 
       <p>
         <strong>Objective:</strong>
-        Investigation of the relationship between green space coverage and air pollution using cloud-based remote sensing data analysis.
+        To investigate how green space coverage and vegetation height are associated with spatial variations in NO₂ and PM2.5 concentrations across Sichuan Province. The study also aimed to determine whether different types of green-space coverage have different pollution-mitigation characteristics under areas of high and low human activity.
       </p>
 
       <p>
         <strong>Data:</strong>
-        Cloud-based remote sensing data.
+        Landsat-8 surface-reflectance data for green-space mapping, Sentinel-5P/TROPOMI observations for NO₂, MODIS aerosol optical depth for PM2.5 estimation, and ground-based air-pollution measurements from monitoring stations for validation.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        Cloud-based remote sensing data analysis of green space coverage and air pollution.
+        Multi-sensor satellite and ground observations were integrated within a cloud-computing framework to map green-space coverage and air-pollution indicators for 2019 and 2022. Green-space areas were separated into tall and short classes, and pollution levels were compared across green-space categories and high- and low human-activity regions.
       </p>
 
       <p>
         <strong>Research Focus:</strong>
-        Green space coverage and air pollution in Sichuan, Western China.
+        Large-scale remote-sensing assessment of the relationship between urban and regional vegetation structure and air pollution. Particular emphasis was placed on whether vegetation height modifies the apparent pollution-mitigation effect of green-space coverage.
       </p>
 
+      <p>
+        <strong>Key Outcome:</strong>
+        Areas with green-space coverage generally showed lower NO₂ and PM2.5 concentrations, while tall green-space coverage consistently showed the lowest pollution levels among the investigated classes. In high-human-activity regions, tall green space was associated with 25% and 20% lower average annual PM2.5 and 9% and 4% lower average annual NO₂ than short green space in 2019 and 2022, respectively.
+      </p>
+      
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
         Research Outputs
       </h4>
@@ -301,24 +306,29 @@ author_profile: true
 
       <p>
         <strong>Objective:</strong>
-        Surface displacement measurement and modeling of the Shah-Gheyb salt dome using InSAR and machine learning techniques.
+        To measure and characterize the temporal surface displacement of the Shah-Gheyb salt dome during 2016–2019 and 2020–2022 using NSBAS-InSAR. A second objective was to model and predict displacement in the east-west and up-down directions using machine-learning models driven by topographic, remote-sensing, hydrological, and geological variables.
       </p>
 
       <p>
         <strong>Data:</strong>
-        Sentinel-1 data and related observations of the Shah-Gheyb salt dome.
+        Sentinel-1 InSAR observations together with 14 predictor layers representing topographic, remote-sensing, hydrological, and geological characteristics of the Shah-Gheyb salt dome.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        InSAR-based surface displacement measurement and machine learning techniques for displacement modeling.
+        NSBAS-InSAR was used to estimate temporal displacement for the 2016–2019 and 2020–2022 periods in the east-west and up-down components. Random Forest Regression (RFR) and Support Vector Regression (SVR) were then evaluated through 29 modeling scenarios, with model outputs validated against InSAR-derived displacement using RMSE and correlation coefficient.
       </p>
 
       <p>
         <strong>Research Focus:</strong>
-        Surface displacement measurement and modeling of the Shah-Gheyb salt dome using InSAR and machine learning techniques.
+        Quantification of salt-dome deformation and the development of data-driven models capable of representing its spatial displacement behavior. The research specifically links InSAR deformation measurements with geological, hydrological, topographic, and remote-sensing predictors to investigate the potential for displacement prediction.
       </p>
 
+      <p>
+        <strong>Key Outcome:</strong>
+        The salt dome exhibited an east-west displacement rate reaching approximately 39 mm/year, while the up-down component ranged from −18 to +6 mm/year. The RFR model outperformed SVR in the reported prediction experiments, achieving RMSE values of 1.9 mm for E-W and 2.8 mm for U-D, with corresponding maximum correlation coefficients of 97.3% and 55.8%.
+      </p>
+      
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
         Research Outputs
       </h4>
