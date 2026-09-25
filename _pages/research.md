@@ -19,7 +19,7 @@ author_profile: true
   <!-- Three images in one row (always visible) -->
   <div style="display: flex; gap: 12px; margin: 1rem 0; flex-wrap: nowrap;">
 
-    <a href="images/research/open-pit-mine-01.jpg" target="_blank" style="flex: 1 1 0; min-width: 0;">
+    <a href="images/1.png" target="_blank" style="flex: 1 1 0; min-width: 0;">
       <img
         src="images/research/open-pit-mine-01.jpg"
         alt=""
