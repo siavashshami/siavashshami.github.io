@@ -39,32 +39,32 @@ author_profile: true
   }
   .lb-close:hover { opacity: 1; }
 
-  /* Thumbnail row – always horizontal */
+  /* Thumbnail row – three images side by side, always in one row */
   .thumb-row {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     gap: 10px;
-    margin-bottom: 1rem;
-    align-items: stretch;
+    margin: .6rem 0 1rem 0;
+    width: 100%;
   }
   .thumb-row a {
-    flex: 1 1 0;
-    min-width: 0;
+    flex: 1 1 33.333%;
     display: block;
+    overflow: hidden;
+    border-radius: 8px;
+    border: 1px solid #e6e9ee;
+    transition: transform .2s, box-shadow .2s;
+  }
+  .thumb-row a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(30,58,95,.25);
   }
   .thumb-row img {
     width: 100%;
     height: 100px;
     object-fit: cover;
-    border-radius: 8px;
     display: block;
-    border: 1px solid #e6e9ee;
-    transition: transform .2s, box-shadow .2s;
-  }
-  .thumb-row img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 18px rgba(30,58,95,.25);
   }
 </style>
 
@@ -79,9 +79,9 @@ author_profile: true
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
 ">
 
-  <!-- Title -->
+  <!-- 1) Project title -->
   <h3 style="
-    margin: 0 0 .9rem 0;
+    margin: 0;
     color: #1e3a5f;
     font-size: 1.15rem;
     font-weight: 700;
@@ -91,14 +91,14 @@ author_profile: true
     1. Open-Pit Mine Deformation Monitoring Using InSAR
   </h3>
 
-  <!-- Small image row (always horizontal, outside <details>) -->
+  <!-- 2) Three images in a row (always visible) -->
   <div class="thumb-row">
     <a href="#img1"><img src="images/research/open-pit-mine-01.jpg" alt=""></a>
     <a href="#img2"><img src="images/research/open-pit-mine-02.jpg" alt=""></a>
     <a href="#img3"><img src="images/research/open-pit-mine-03.jpg" alt=""></a>
   </div>
 
-  <!-- Hidden section (details) – text only -->
+  <!-- 3) "Click to expand" + everything else hidden inside details -->
   <details style="
     border: 1px solid #e6e9ee;
     border-radius: 10px;
