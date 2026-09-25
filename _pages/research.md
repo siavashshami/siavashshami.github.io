@@ -36,7 +36,7 @@ author_profile: true
   <!-- Title (always visible) -->
   <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
-    9. InSAR Phase Bias in the SBAS Algorithm and Its Effect on Different Landcovers
+    9. InSAR Phase Bias in the SBAS Algorithm
   </h3>
 
   <!-- Hidden content -->
@@ -158,7 +158,7 @@ author_profile: true
   <!-- Title (always visible) -->
   <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
-    8. Green Space Coverage and Air Pollution in Sichuan, Western China
+    8. Green Space Coverage and Air Pollution in Sichuan
   </h3>
 
   <!-- Hidden content -->
@@ -280,7 +280,7 @@ author_profile: true
   <!-- Title (always visible) -->
   <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
-    7. Modeling of the Shah-Gheyb Salt Dome Displacement, Using InSAR and ML
+    7. Modeling of the Shah-Gheyb Salt Dome Displacement
   </h3>
 
   <!-- Hidden content -->
@@ -402,7 +402,7 @@ author_profile: true
   <!-- Title (always visible) -->
   <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
-    6. Land Displacement in East Baton Rouge Parish Using InSAR, GNSS, and Machine Learning
+    6. Land Displacement in Baton Rouge
   </h3>
 
   <!-- Hidden content -->
@@ -526,7 +526,7 @@ author_profile: true
   <!-- Title (always visible) -->
   <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
-    5. Hashtgerd Plain Deformation Analysis Using Sentinel-1, Geological, and Hydrological Data
+    5. Deformation Analysis Using Sentinel-1, Geological, and Hydrological Data
   </h3>
 
   <!-- Hidden content -->
@@ -650,7 +650,7 @@ author_profile: true
   <!-- Title (always visible) -->
   <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
-    4. Ground Subsidence Along the Railway in the Kashan Plain Using Sentinel-1 and NSBAS
+    4. Ground Subsidence Along the Railway in the Kashan Plain
   </h3>
 
   <!-- Hidden content -->
@@ -770,7 +770,7 @@ author_profile: true
   <!-- Title (always visible) -->
   <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
-    3. CO and NO₂ Pollution Trends in Iran Using Sentinel-5P during the COVID-19
+    3. CO and NO₂ Pollution Trends in Iran Using Sentinel-5P
   </h3>
 
   <!-- Hidden content -->
@@ -897,7 +897,7 @@ author_profile: true
   <!-- Title (always visible) -->
   <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span>
-    2. Water Storage Changes in Iran Using GRACE and CHIRPS
+    2. Water Storage Changes in Iran Using GRACE
   </h3>
 
   <!-- Hidden content -->
