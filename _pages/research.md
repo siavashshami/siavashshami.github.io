@@ -8,6 +8,7 @@ author_profile: true
 ---
 ## Past Research
 ---
+<!-- Project 01 -->
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
 
   <!-- Title (always visible) -->
@@ -68,41 +69,73 @@ author_profile: true
 
       <div style="line-height: 1.7;">
 
+        <!-- Publication 1 -->
         <p>
-          Shami, S., &amp; Hossainali, MM. (2018). Analysis of the effect of temporal and spatial baseline of radar images on the amount of coherence for detecting large-scale displacement gradients using interferometric synthetic aperture radar (Case study: Gol Gohar Sirjan Mine). Geomatics and GIT 97 (In Persian) (Conference Paper: Poster Presentation)
+          <strong>1.</strong> Shami, S., &amp; Hossainali, MM. (2018). Analysis of the effect of temporal and spatial baseline of radar images on the amount of coherence for detecting large-scale displacement gradients using interferometric synthetic aperture radar (Case study: Gol Gohar Sirjan Mine). Geomatics and GIT 97 [In Persian]
+          <br>
+          Conference Paper - Poster Presentation
         </p>
 
+        <!-- Publication 2 -->
         <p>
-          Shami, S., Ghorbani, Z., &amp; Abedi, L. (2018). Persistent Scatterers Time series analysis of radar interferometry to determine the rate subsidence of areas around the open pit mines (Case study: Gol Gohar Sirjan Mine). The 4th National Geology and Mining Explorations Symposium (In Persian) (Conference Paper: Poster Presentation)
+          <strong>2.</strong> Shami, S., Ghorbani, Z., &amp; Abedi, L. (2018). Persistent Scatterers Time series analysis of radar interferometry to determine the rate subsidence of areas around the open pit mines (Case study: Gol Gohar Sirjan Mine). The 4th National Geology and Mining Explorations Symposium [In Persian]
+          <br>
+          Conference Paper - Poster Presentation
         </p>
 
+        <!-- Publication 3 -->
         <p>
-          Shami, S., Ghorbani, Z., &amp; Abedi, L. (2018). Calculation of the extracted mines volume using DEM obtained from the Envisat radar satellite images (Case study: Gol Gohar Sirjan Mine). The 4th National Geology and Mining Explorations Symposium (In Persian) (Conference Paper: Oral Presentation)
+          <strong>3.</strong> Shami, S., Ghorbani, Z., &amp; Abedi, L. (2018). Calculation of the extracted mines volume using DEM obtained from the Envisat radar satellite images (Case study: Gol Gohar Sirjan Mine). The 4th National Geology and Mining Explorations Symposium [In Persian]
+          <br>
+          Conference Paper - Oral Presentation
         </p>
 
+        <!-- Publication 4 -->
         <p>
-          Shami, S., &amp; Ghorbani, Z. (2019). Influence of wavelength radar images in estimation of open-pit mine displacements using radar interferometry technology (case study: Gol Gohar Sirjan mine). 3rd TRIGGER International Conference (Conference Paper: Poster Presentation)
+          <strong>4.</strong> Shami, S., Hossainali, MM., &amp; Babaee, S. (2019). Analysis of Large-scale Displacement Using Radar Interferometry Technology in Open-pit Mines (Case Study: Gol Gohar Sirjan Mine). Geospatial Engineering Journal [In Persian]
+          <br>
+          Review Article - Peer Reviewed
         </p>
 
+        <!-- Publication 5 -->
         <p>
-          Shami, S., Hossainali, MM., &amp; Babaee, S. (2019). Analysis of Large-scale Displacement Using Radar Interferometry Technology in Open-pit Mines (Case Study: Gol Gohar Sirjan Mine). Geospatial Engineering Journal (In Persian) (peer-reviewed: Review Article)
+          <strong>5.</strong> Shami, S., &amp; Ghorbani, Z. (2019). Influence of wavelength radar images in estimation of open-pit mine displacements using radar interferometry technology (case study: Gol Gohar Sirjan mine). 3rd TRIGGER International Conference
+          <br>
+          Conference Paper - Poster Presentation
         </p>
 
+        <!-- Publication 7 -->
         <p>
-          Shami, S., &amp; Ghorbani, Z. (2019). Processing Radar Images using GMTSAR &amp; SNAP. Arshadan Press (In Persian, ISBN: 978-622-251-021-3) (Book: Technical Book)
+          <strong>7.</strong> Shami, S., &amp; Ghorbani, Z. (2019). Processing Radar Images using GMTSAR &amp; SNAP. Arshadan Press [In Persian]
+          <br>
+          ISBN: 978-622-251-021-3
+          <br>
+          Book - Technical Book
         </p>
 
+        <!-- Publication 8 -->
         <p>
-          Hossainali, MM., &amp; Shami, S. (2020). Processing Radar Images using StaMPS. K.N. TOOSI UNIVERSITY Press (In Persian, ISBN: 978-622-6655-46-0) (Book: Technical Book)
+          <strong>8.</strong> Hossainali, MM., &amp; Shami, S. (2020). Processing Radar Images using StaMPS. K.N. TOOSI UNIVERSITY Press [In Persian]
+          <br>
+          Co-first author (equal contribution)
+          <br>
+          ISBN: 978-622-6655-46-0
+          <br>
+          Book - Technical Book
         </p>
 
+        <!-- Publication 10 -->
         <p>
-          Shami, S. (2021). GMTSAR installation and processing Guide - Practical InSAR handbook series. ebook (Book: Handbook) doi.org/10.5281/zenodo.22609191
+          <strong>10.</strong> Shami, S. (2021). GMTSAR installation and processing Guide - Practical InSAR handbook series. ebook
+          <br>
+          Book - Handbook
+          <br>
+          DOI: 10.5281/zenodo.22609191
         </p>
 
       </div>
 
-      <!-- Images (last section) -->
+      <!-- Images — last section -->
       <div style="margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid #eee;">
 
         <div style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center;">
@@ -124,14 +157,14 @@ author_profile: true
 
           <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
             <a
-              href="/images/research/open-pit-mine-02.jpg"
+              href="/images/1.png"
               target="_blank"
               rel="noopener noreferrer"
               style="display: inline-block; width: 100%;"
             >
               <img
-                src="/images/research/open-pit-mine-02.jpg"
-                alt="2"
+                src="/images/1.png"
+                alt="1"
                 style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
               />
             </a>
@@ -139,14 +172,14 @@ author_profile: true
 
           <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
             <a
-              href="/images/research/open-pit-mine-03.jpg"
+              href="/images/1.png"
               target="_blank"
               rel="noopener noreferrer"
               style="display: inline-block; width: 100%;"
             >
               <img
-                src="/images/research/open-pit-mine-03.jpg"
-                alt="3"
+                src="/images/1.png"
+                alt="1"
                 style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
               />
             </a>
