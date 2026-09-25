@@ -664,27 +664,32 @@ author_profile: true
     <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
 
       <p>
-        <strong>Study Area:</strong> Kashan Plain, Iran
+        <strong>Study Area:</strong> Kashan, Iran
       </p>
 
       <p>
         <strong>Objective:</strong>
-        Assessment of ground subsidence along the railway in the Kashan plain using Sentinel-1 data and the NSBAS algorithm.
+        To quantify ground-surface deformation across the Kashan Plain and specifically assess its implications for the stability of the Qom–Kashan railway. The study also aimed to develop a practical deformation-profile approach for identifying sections of the railway that may require increased monitoring or engineering attention.
       </p>
 
       <p>
         <strong>Data:</strong>
-        Sentinel-1 data.
+        Ascending and descending Sentinel-1 SAR observations acquired between 2015 and 2021, covering the Kashan Plain and the approximately 110-km Qom–Kashan railway corridor.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        NSBAS algorithm.
+        The NSBAS-InSAR technique was applied to estimate ground deformation in both the up-down and east-west components from ascending and descending Sentinel-1 observations. Longitudinal deformation profiles were then generated along the railway to evaluate spatial variations in subsidence and develop a traffic-light-based railway stability assessment approach.
       </p>
 
       <p>
         <strong>Research Focus:</strong>
-        Ground subsidence along the railway in the Kashan plain.
+        InSAR-based monitoring of infrastructure exposed to regional land subsidence, with particular emphasis on railway deformation and spatial variations in vertical velocity. The research also examines the relationship between widespread plain-scale subsidence and groundwater extraction as an important contributing factor.
+      </p>
+      
+      <p>
+        <strong>Key Outcome:</strong>
+        The Kashan Plain was found to be subsiding at rates exceeding 90 mm/year, while some railway locations experienced vertical velocities reaching approximately −23 mm/year. More than 60% of the railway was affected by varying degrees of subsidence, and a localized approximately 1-km section was identified as a relatively fast deforming risk zone.
       </p>
 
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
@@ -791,17 +796,17 @@ author_profile: true
 
       <p>
         <strong>Objective:</strong>
-        Investigation of CO and NO₂ pollutant trends in Iran during the COVID-19 pandemic using time-series Sentinel-5 images in Google Earth Engine.
+        To investigate temporal changes in CO and NO₂ concentrations across Iran during the COVID-19 pandemic and to examine these changes in four major Iranian metropolitan areas: Tehran, Mashhad, Isfahan, and Tabriz. The study also aimed to assess the consistency of satellite-derived NO₂ observations with ground-based in-situ measurements.
       </p>
 
       <p>
         <strong>Data:</strong>
-        Sentinel-5 images.
+        Sentinel-5P TROPOMI time-series observations and in-situ air pollution measurements for Iran and its four major metropolitan areas during comparable periods in 2019, 2020, and 2021.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        Time-series analysis of CO and NO₂ pollutants.
+        Sentinel-5P TROPOMI time-series observations and in-situ air pollution measurements for Iran and its four major metropolitan areas during comparable periods in 2019, 2020, and 2021.
       </p>
 
       <p>
@@ -811,8 +816,13 @@ author_profile: true
 
       <p>
         <strong>Research Focus:</strong>
-        CO and NO₂ pollutant trends in Iran during the COVID-19 pandemic.
+        Satellite-based monitoring of anthropogenic air pollutants and their temporal response during the COVID-19 period, with emphasis on CO and NO₂ across Iran and its major cities. A second focus was the validation of satellite-derived pollution information against ground observations.
       </p>
+
+      <p>
+        <strong>Key Outcome:</strong>
+        Sentinel-5P-derived NO₂ showed agreement with ground-based observations, with an average correlation coefficient of 0.7. CO and NO₂ concentrations were approximately 5% lower in 2020 than in 2019 and increased by about 5% in 2021 relative to 2020, demonstrating a measurable temporal change during the pandemic period.
+        </p>
 
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
         Research Outputs
@@ -820,9 +830,16 @@ author_profile: true
 
       <div style="line-height: 1.7;">
 
-        <!-- Publication 1 -->
+          <!-- Publication 1 -->
         <p>
-          <strong>1.</strong> Shami, S., Ranjgar, B., Bian, J., Khoshlahjeh Azar, M., Moghimi, A., Amani, M., &amp; Naboureh, A. (2022). Trends of CO and NO2 Pollutants in Iran during COVID-19 pandemic using Timeseries Sentinel-5 images in Google Earth Engine. Pollutants
+          <strong>1.</strong> Shami, S; Khoshlahjeh, M; Ghorbani, Z; Moghimi, A; Mohammadzadeh, A; Sabet Ghadam, SS. (2021). Evaluation of air pollution contributes for the COVID-19 pandemic in Iran using Sentinel 5 Satellite Data. Journal of Geomatics Science and Technology [In Persian]
+          <br>
+          Research Article - Peer Reviewed
+        </p>
+        
+        <!-- Publication 2 -->
+        <p>
+          <strong>2.</strong> Shami, S., Ranjgar, B., Bian, J., Khoshlahjeh Azar, M., Moghimi, A., Amani, M., &amp; Naboureh, A. (2022). Trends of CO and NO2 Pollutants in Iran during COVID-19 pandemic using Timeseries Sentinel-5 images in Google Earth Engine. Pollutants
           <br>
           Research Article - Peer Reviewed
           <br>
