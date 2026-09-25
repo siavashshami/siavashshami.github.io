@@ -19,23 +19,32 @@ author_profile: true
   <!-- Three images in one row (always visible) -->
   <div style="display: flex; gap: 12px; margin: 1rem 0; flex-wrap: nowrap;">
 
-    <a href="images/1.png" target="_blank" style="flex: 1 1 0; min-width: 0;">
+    <a href="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
+       target="_blank"
+       style="flex: 1 1 0; min-width: 0;">
+
       <img
-        src="images/1.png"
+        src="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
         alt=""
         style="width: 100%; height: 150px; object-fit: cover; border-radius: 6px; display: block;">
     </a>
 
-    <a href="images/research/open-pit-mine-02.jpg" target="_blank" style="flex: 1 1 0; min-width: 0;">
+    <a href="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
+       target="_blank"
+       style="flex: 1 1 0; min-width: 0;">
+
       <img
-        src="images/research/open-pit-mine-02.jpg"
+        src="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
         alt=""
         style="width: 100%; height: 150px; object-fit: cover; border-radius: 6px; display: block;">
     </a>
 
-    <a href="images/research/open-pit-mine-03.jpg" target="_blank" style="flex: 1 1 0; min-width: 0;">
+    <a href="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
+       target="_blank"
+       style="flex: 1 1 0; min-width: 0;">
+
       <img
-        src="images/research/open-pit-mine-03.jpg"
+        src="github.com/siavashshami/siavashshami.github.io/blob/main/images/1.png"
         alt=""
         style="width: 100%; height: 150px; object-fit: cover; border-radius: 6px; display: block;">
     </a>
