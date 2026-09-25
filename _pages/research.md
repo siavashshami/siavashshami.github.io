@@ -8,6 +8,128 @@ author_profile: true
 ---
 ## Past Research
 ---
+<!-- Project 07 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
+
+  <!-- Title (always visible) -->
+  <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1.4rem;">🗂️</span>
+    7. Modeling of the Shah-Gheyb Salt Dome Displacement, Using InSAR and ML
+  </h3>
+
+  <!-- Hidden content -->
+  <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; background: #ffffff; margin-top: 1rem;">
+
+    <summary style="font-size: 1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
+      <span style="font-size: 1.1rem;">📄</span>
+      Details &amp; Research Outputs
+    </summary>
+
+    <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
+
+      <p>
+        <strong>Study Area:</strong> Shah-Gheyb Salt Dome, Southern Iran
+        &nbsp; | &nbsp;
+        <strong>Period:</strong> 2024
+      </p>
+
+      <p>
+        <strong>Objective:</strong>
+        Surface displacement measurement and modeling of the Shah-Gheyb salt dome using InSAR and machine learning techniques.
+      </p>
+
+      <p>
+        <strong>Data:</strong>
+        Sentinel-1 data and related observations of the Shah-Gheyb salt dome.
+      </p>
+
+      <p>
+        <strong>Methods:</strong>
+        InSAR-based surface displacement measurement and machine learning techniques for displacement modeling.
+      </p>
+
+      <p>
+        <strong>Research Focus:</strong>
+        Surface displacement measurement and modeling of the Shah-Gheyb salt dome using InSAR and machine learning techniques.
+      </p>
+
+      <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
+        Research Outputs
+      </h4>
+
+      <div style="line-height: 1.7;">
+
+        <!-- Publication 1 -->
+        <p>
+          <strong>1.</strong> Shami, S., Shahriari, M. A., Nilfouroushan, F., Forghani, N., Salimi, M., &amp; Reshadi, M. A. M. (2024). Surface displacement measurement and modeling of the Shah-Gheyb salt dome in southern Iran using InSAR and machine learning techniques. International Journal of Applied Earth Observation and Geoinformation
+          <br>
+          Research Article - Peer Reviewed
+          <br>
+          <a href="https://doi.org/10.1016/j.jag.2024.104016" target="_blank" style="text-decoration:none; color: black;">DOI: 10.1016/j.jag.2024.104016</a>
+        </p>
+
+      </div>
+
+      <!-- Images — last section -->
+      <div style="margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid #eee;">
+
+        <div style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center;">
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/7.1.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/7.1.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/7.2.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/7.2.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/7.3.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/7.3.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </details>
+
+</div>
+---
 <!-- Project 06 -->
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
 
