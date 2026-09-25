@@ -42,15 +42,12 @@ author_profile: true
 
   </div>
 
-  <!-- Hidden content (everything else) -->
+  <!-- Hidden content -->
   <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; background: #ffffff;">
 
     <summary style="font-size: 1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
       <span style="font-size: 1.1rem;">📄</span>
       Details &amp; Research Outputs
-      <span style="margin-left: auto; font-size: 0.9rem; color: #888; font-weight: 400;">
-        ⬇️ Click to expand
-      </span>
     </summary>
 
     <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
