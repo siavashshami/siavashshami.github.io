@@ -8,6 +8,130 @@ author_profile: true
 ---
 ## Past Research
 ---
+<!-- Project 06 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
+
+  <!-- Title (always visible) -->
+  <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1.4rem;">🗂️</span>
+    6. Land Displacement in East Baton Rouge Parish Using InSAR, GNSS, and Machine Learning
+  </h3>
+
+  <!-- Hidden content -->
+  <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; background: #ffffff; margin-top: 1rem;">
+
+    <summary style="font-size: 1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
+      <span style="font-size: 1.1rem;">📄</span>
+      Details &amp; Research Outputs
+    </summary>
+
+    <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
+
+      <p>
+        <strong>Study Area:</strong> East Baton Rouge Parish, Louisiana, USA
+        &nbsp; | &nbsp;
+        <strong>Period:</strong> 2024
+      </p>
+
+      <p>
+        <strong>Objective:</strong>
+        Estimation of land displacement in East Baton Rouge Parish, Louisiana, using InSAR, with comparisons with GNSS observations and machine learning models.
+      </p>
+
+      <p>
+        <strong>Data:</strong>
+        Sentinel-1 and GNSS data.
+      </p>
+
+      <p>
+        <strong>Methods:</strong>
+        InSAR-based land displacement estimation, comparison with GNSS observations, and machine learning models.
+      </p>
+
+      <p>
+        <strong>Research Focus:</strong>
+        Land displacement estimation, comparison of InSAR and GNSS observations, and application of machine learning models.
+      </p>
+
+      <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
+        Research Outputs
+      </h4>
+
+      <div style="line-height: 1.7;">
+
+        <!-- Publication 1 -->
+        <p>
+          <strong>1.</strong> Abdalla, A., Shami, S., Shahriari, M. A., &amp; Azar, M. K. (2024). Estimation of land displacement in East Baton Rouge Parish, Louisiana, using InSAR: Comparisons with GNSS and machine learning models. The Egyptian Journal of Remote Sensing and Space Sciences
+          <br>
+          Co-first author (equal contribution)
+          <br>
+          Research Article - Peer Reviewed
+          <br>
+          <a href="https://doi.org/10.1016/j.ejrs.2024.02.008" target="_blank" style="text-decoration:none; color: black;">DOI: 10.1016/j.ejrs.2024.02.008</a>
+        </p>
+
+      </div>
+
+      <!-- Images — last section -->
+      <div style="margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid #eee;">
+
+        <div style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center;">
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/6.1.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/6.1.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/6.2.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/6.2.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/6.3.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/6.3.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </details>
+
+</div>
+---
 <!-- Project 05 -->
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
 
