@@ -1050,7 +1050,7 @@ author_profile: true
 
       <p>
         <strong>Objective:</strong>
-        Investigation and monitoring of large-scale surface deformation in open-pit mining areas using radar interferometry and InSAR time-series techniques.
+        To investigate and monitor surface deformation associated with open-pit mining activities, with particular emphasis on subsidence around the Gol Gohar Sirjan Mine. The research also examines how SAR interferometric characteristics, including temporal and spatial baselines and radar wavelength, affect deformation and coherence estimation, while exploring the use of InSAR-derived elevation information for mine-volume assessment.
       </p>
 
       <p>
@@ -1060,22 +1060,22 @@ author_profile: true
 
       <p>
         <strong>Methods:</strong>
-        DInSAR, PS-InSAR, SBAS, interferometric coherence analysis, temporal and spatial baseline analysis, DEM generation, and InSAR-based deformation monitoring.
+        Differential InSAR and Persistent Scatterer time-series analysis were used to estimate surface deformation and subsidence around the mine, with interferometric coherence, temporal and spatial baseline effects, and radar wavelength also investigated. InSAR-derived elevation information was additionally used to generate DEM-based representations of the mine and estimate extracted volume using elevation differences and Kriging interpolation.
       </p>
 
       <p>
         <strong>Software:</strong>
-        GMTSAR, SNAP, and StaMPS.
+        GMTSAR, SNAP, Surfer, and StaMPS.
       </p>
 
       <p>
         <strong>Research Focus:</strong>
-        Open-pit mine deformation, subsidence monitoring, interferometric coherence, radar wavelength effects, and DEM-based mine-volume estimation.
+        Mining-induced surface deformation, subsidence monitoring, interferometric coherence, and the influence of SAR acquisition characteristics on InSAR measurements. A complementary focus was placed on extracting topographic information from radar interferometry and using the resulting elevation models to support quantitative assessment of open-pit excavation.
       </p>
 
       <p>
         <strong>Key Outcome:</strong>
-        Development of a research line focused on applying InSAR techniques to open-pit mine deformation monitoring, followed by related technical publications and InSAR processing books and handbooks.
+       The research established an InSAR-based framework for investigating deformation around the Gol Gohar open-pit mine and demonstrated its application to both deformation monitoring and mine-related topographic assessment. The results also provided an early research basis for evaluating interferometric parameters and time-series techniques in challenging mining environments, followed by related technical publications and InSAR processing books and handbooks.
       </p>
 
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
