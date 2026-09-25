@@ -128,7 +128,6 @@ author_profile: true
 
 </div>
 ---
-```html id="m7q4bx"
 <!-- Project 03 -->
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
 
