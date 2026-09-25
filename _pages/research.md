@@ -8,6 +8,128 @@ author_profile: true
 ---
 ## Past Research
 ---
+<!-- Project 09 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
+
+  <!-- Title (always visible) -->
+  <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1.4rem;">🗂️</span>
+    9. InSAR Phase Bias in the SBAS Algorithm and Its Effect on Different Landcovers
+  </h3>
+
+  <!-- Hidden content -->
+  <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; background: #ffffff; margin-top: 1rem;">
+
+    <summary style="font-size: 1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
+      <span style="font-size: 1.1rem;">📄</span>
+      Details &amp; Research Outputs
+    </summary>
+
+    <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
+
+      <p>
+        <strong>Study Area:</strong> Different landcovers
+        &nbsp; | &nbsp;
+        <strong>Period:</strong> 2025
+      </p>
+
+      <p>
+        <strong>Objective:</strong>
+        Investigating the InSAR phase bias in the SBAS algorithm and its effect on different landcovers.
+      </p>
+
+      <p>
+        <strong>Data:</strong>
+        InSAR data and different landcover types.
+      </p>
+
+      <p>
+        <strong>Methods:</strong>
+        Investigation of InSAR phase bias within the SBAS algorithm and analysis of its effect on different landcovers.
+      </p>
+
+      <p>
+        <strong>Research Focus:</strong>
+        InSAR phase bias in the SBAS algorithm and its effect on different landcovers.
+      </p>
+
+      <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
+        Research Outputs
+      </h4>
+
+      <div style="line-height: 1.7;">
+
+        <!-- Publication 1 -->
+        <p>
+          <strong>1.</strong> Karami, E., Shami, S., Maghsoudi, Y., Ranjgar, B., &amp; Azadnejad, S. (2025). Investigating the InSAR Phase Bias in the SBAS Algorithm and Its effect on different Landcovers. IEEE Access
+          <br>
+          Research Article - Peer Reviewed
+          <br>
+          <a href="https://doi.org/10.1109/ACCESS.2025.3568144" target="_blank" style="text-decoration:none; color: black;">DOI: 10.1109/ACCESS.2025.3568144</a>
+        </p>
+
+      </div>
+
+      <!-- Images — last section -->
+      <div style="margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid #eee;">
+
+        <div style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center;">
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/9.1.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/9.1.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/9.2.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/9.2.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/9.3.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/9.3.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </details>
+
+</div>
+---
 <!-- Project 08 -->
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
 
