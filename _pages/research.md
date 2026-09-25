@@ -8,6 +8,138 @@ author_profile: true
 ---
 ## Past Research
 ---
+<!-- Project 02 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
+
+  <!-- Title (always visible) -->
+  <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0; display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1.4rem;">🗂️</span>
+    2. Water Storage Changes in Iran Using GRACE and CHIRPS
+  </h3>
+
+  <!-- Hidden content -->
+  <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; background: #ffffff; margin-top: 1rem;">
+
+    <summary style="font-size: 1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
+      <span style="font-size: 1.1rem;">📄</span>
+      Details &amp; Research Outputs
+    </summary>
+
+    <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
+
+      <p>
+        <strong>Study Area:</strong> Iran
+        &nbsp; | &nbsp;
+        <strong>Period:</strong> 2019
+      </p>
+
+      <p>
+        <strong>Objective:</strong>
+        Investigation of water storage changes in Iran using GRACE and CHIRPS data in the Google Earth Engine system.
+      </p>
+
+      <p>
+        <strong>Data:</strong>
+        GRACE and CHIRPS data.
+      </p>
+
+      <p>
+        <strong>Methods:</strong>
+        Analysis of water storage changes using GRACE and CHIRPS data in the Google Earth Engine system.
+      </p>
+
+      <p>
+        <strong>Software:</strong>
+        Google Earth Engine.
+      </p>
+
+      <p>
+        <strong>Research Focus:</strong>
+        Water storage changes in Iran and satellite-based hydrological monitoring.
+      </p>
+
+      <p>
+        <strong>Key Outcome:</strong>
+        Analysis of water storage changes in Iran using GRACE and CHIRPS data in the Google Earth Engine system.
+      </p>
+
+      <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
+        Research Outputs
+      </h4>
+
+      <div style="line-height: 1.7;">
+
+        <!-- Publication 6 -->
+        <p>
+          <strong>6.</strong> Shami, S., &amp; Ghorbani, Z. (2019). Investigating water storage changes in Iran using grace and chirps data in the google earth engine system. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+          <br>
+          Conference Paper - Poster Presentation
+          <br>
+          DOI: 10.5194/isprs-archives-XLII-4-W18-981-2019
+        </p>
+
+      </div>
+
+      <!-- Images — last section -->
+      <div style="margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid #eee;">
+
+        <div style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center;">
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/1.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/1.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/1.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/1.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/1.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/1.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </details>
+
+</div>
+---
 <!-- Project 01 -->
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
 
