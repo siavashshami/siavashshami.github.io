@@ -57,24 +57,29 @@ author_profile: true
 
       <p>
         <strong>Objective:</strong>
-        Investigating the InSAR phase bias in the SBAS algorithm and its effect on different landcovers.
+        To investigate the origin and magnitude of phase bias in SBAS-InSAR time-series processing and to determine how interferogram-network connectivity affects the reliability of estimated deformation. The study also examines how land-surface characteristics, particularly soil moisture and vegetation, influence the observed phase-bias behavior.
       </p>
 
       <p>
         <strong>Data:</strong>
-        InSAR data and different landcover types.
+        Multi-temporal SAR interferograms processed using different SBAS interferogram-network configurations, together with information representing soil moisture and vegetation characteristics across different land-cover conditions.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        Investigation of InSAR phase bias within the SBAS algorithm and analysis of its effect on different landcovers.
+        Average displacement velocity was first estimated using a fully connected SBAS network, followed by processing and comparison of networks with different numbers of interferogram connections. The resulting deformation estimates were compared with the full SBAS network and PS-InSAR results to quantify phase bias and identify network configurations that provide a better balance between processing efficiency and deformation reliability.
       </p>
 
       <p>
         <strong>Research Focus:</strong>
-        InSAR phase bias in the SBAS algorithm and its effect on different landcovers.
+        InSAR error characterization, interferogram-network design, and the effect of network connectivity on SBAS deformation estimates. The study further addresses the interaction between phase bias and land-surface conditions, showing that soil moisture and vegetation characteristics can influence the magnitude of the bias.
       </p>
 
+      <p>
+        <strong>Key Outcome:</strong>
+        The full-connection SBAS solution was found to be nearly free of phase bias and showed an 88% correlation with PS-InSAR results. Among reduced networks, an eight-connection configuration produced the highest correlation and lowest phase bias, whereas one- to three-connection networks showed the highest bias; adding longer temporal intervals to short-term interferograms also reduced the observed phase bias.
+      </p>
+      
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
         Research Outputs
       </h4>
