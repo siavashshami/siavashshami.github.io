@@ -6,6 +6,28 @@ permalink: /research/
 author_profile: true
 
 ---
+## Current Research
+---
+<!-- Project 01 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa;">
+
+  <h3 style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; margin: 0 0 0.8rem 0; display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1.4rem;">🔬</span>
+    1. RUSLE-Estimated Soil Erosion
+  </h3>
+
+  <p style="margin-bottom: 0.6rem;">
+    <strong>Status:</strong>
+    Manuscript under peer review
+  </p>
+
+  <p style="margin-bottom: 0;">
+    Variation in RUSLE-Estimated Soil Erosion Responses to Land Use/Land Cover Change Across Major Climate Zone​.
+  </p>
+
+</div>
+
+
 ## Past Research
 ---
 <!-- Project 09 -->
