@@ -69,13 +69,13 @@ author_profile: true
 
       <div style="line-height: 1.7;">
 
-        <!-- Publication 6 -->
+        <!-- Publication 1 -->
         <p>
-          <strong>6.</strong> Shami, S., &amp; Ghorbani, Z. (2019). Investigating water storage changes in Iran using grace and chirps data in the google earth engine system. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+          <strong>1.</strong> Shami, S., &amp; Ghorbani, Z. (2019). Investigating water storage changes in Iran using grace and chirps data in the google earth engine system. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
           <br>
           Conference Paper - Poster Presentation
           <br>
-          DOI: 10.5194/isprs-archives-XLII-4-W18-981-2019
+          <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W18-981-2019" target="_blank" style="text-decoration:none; color: black;">DOI: 10.5194/isprs-archives-XLII-4-W18-981-2019</a>
         </p>
 
       </div>
@@ -87,13 +87,13 @@ author_profile: true
 
           <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
             <a
-              href="/images/1.png"
+              href="/images/2.1.png"
               target="_blank"
               rel="noopener noreferrer"
               style="display: inline-block; width: 100%;"
             >
               <img
-                src="/images/1.png"
+                src="/images/2.1.png"
                 alt="1"
                 style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
               />
@@ -102,13 +102,13 @@ author_profile: true
 
           <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
             <a
-              href="/images/1.png"
+              href="/images/2.2.png"
               target="_blank"
               rel="noopener noreferrer"
               style="display: inline-block; width: 100%;"
             >
               <img
-                src="/images/1.png"
+                src="/images/2.2.png"
                 alt="1"
                 style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
               />
@@ -117,13 +117,13 @@ author_profile: true
 
           <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
             <a
-              href="/images/1.png"
+              href="/images/2.3.png"
               target="_blank"
               rel="noopener noreferrer"
               style="display: inline-block; width: 100%;"
             >
               <img
-                src="/images/1.png"
+                src="/images/2.3.png"
                 alt="1"
                 style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
               />
