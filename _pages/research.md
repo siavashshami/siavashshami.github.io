@@ -106,7 +106,7 @@ author_profile: true
 
         <!-- Publication 6 -->
         <p>
-          <strong>7.</strong> Shami, S., &amp; Ghorbani, Z. (2019). Processing Radar Images using GMTSAR &amp; SNAP. Arshadan Press [In Persian]
+          <strong>6.</strong> Shami, S., &amp; Ghorbani, Z. (2019). Processing Radar Images using GMTSAR &amp; SNAP. Arshadan Press [In Persian]
           <br>
           ISBN: 978-622-251-021-3
           <br>
@@ -115,7 +115,7 @@ author_profile: true
 
         <!-- Publication 7 -->
         <p>
-          <strong>8.</strong> Hossainali, MM., &amp; Shami, S. (2020). Processing Radar Images using StaMPS. K.N. TOOSI UNIVERSITY Press [In Persian]
+          <strong>7.</strong> Hossainali, MM., &amp; Shami, S. (2020). Processing Radar Images using StaMPS. K.N. TOOSI UNIVERSITY Press [In Persian]
           <br>
           Co-first author (equal contribution)
           <br>
@@ -126,7 +126,7 @@ author_profile: true
 
         <!-- Publication 8 -->
         <p>
-          <strong>10.</strong> Shami, S. (2021). GMTSAR installation and processing Guide - Practical InSAR handbook series. ebook
+          <strong>8.</strong> Shami, S. (2021). GMTSAR installation and processing Guide - Practical InSAR handbook series. ebook
           <br>
           Book - Handbook
           <br>
