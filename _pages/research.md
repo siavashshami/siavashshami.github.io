@@ -142,13 +142,13 @@ author_profile: true
 
           <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
             <a
-              href="/images/1.png"
+              href="/images/1.1.png"
               target="_blank"
               rel="noopener noreferrer"
               style="display: inline-block; width: 100%;"
             >
               <img
-                src="/images/1.png"
+                src="/images/1.1.png"
                 alt="1"
                 style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
               />
@@ -157,13 +157,13 @@ author_profile: true
 
           <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
             <a
-              href="/images/1.png"
+              href="/images/1.2.png"
               target="_blank"
               rel="noopener noreferrer"
               style="display: inline-block; width: 100%;"
             >
               <img
-                src="/images/1.png"
+                src="/images/1.2.png"
                 alt="1"
                 style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
               />
@@ -172,13 +172,13 @@ author_profile: true
 
           <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
             <a
-              href="/images/1.png"
+              href="/images/1.3.png"
               target="_blank"
               rel="noopener noreferrer"
               style="display: inline-block; width: 100%;"
             >
               <img
-                src="/images/1.png"
+                src="/images/1.3.png"
                 alt="1"
                 style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
               />
