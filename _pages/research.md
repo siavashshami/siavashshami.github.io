@@ -8,7 +8,6 @@ author_profile: true
 ---
 ## Past Research
 ---
-<!-- Project 01 -->
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
 
   <!-- Title (always visible) -->
@@ -17,58 +16,8 @@ author_profile: true
     1. Open-Pit Mine Deformation Monitoring Using InSAR
   </h3>
 
-  <!-- Three images in one row (always visible) -->
-  <div style="display: flex; gap: 12px; margin: 1rem 0; flex-wrap: nowrap;">
-
-    <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
-      <a
-        href="/images/1.png"
-        target="_blank"
-        rel="noopener noreferrer"
-        style="display: inline-block; width: 100%;"
-      >
-        <img
-          src="/images/1.png"
-          alt="1"
-          style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
-        />
-      </a>
-    </div>
-
-    <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
-      <a
-        href="/images/research/open-pit-mine-02.jpg"
-        target="_blank"
-        rel="noopener noreferrer"
-        style="display: inline-block; width: 100%;"
-      >
-        <img
-          src="/images/research/open-pit-mine-02.jpg"
-          alt="2"
-          style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
-        />
-      </a>
-    </div>
-
-    <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
-      <a
-        href="/images/research/open-pit-mine-03.jpg"
-        target="_blank"
-        rel="noopener noreferrer"
-        style="display: inline-block; width: 100%;"
-      >
-        <img
-          src="/images/research/open-pit-mine-03.jpg"
-          alt="3"
-          style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
-        />
-      </a>
-    </div>
-
-  </div>
-
   <!-- Hidden content -->
-  <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; background: #ffffff;">
+  <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; background: #ffffff; margin-top: 1rem;">
 
     <summary style="font-size: 1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
       <span style="font-size: 1.1rem;">📄</span>
@@ -153,9 +102,62 @@ author_profile: true
 
       </div>
 
+      <!-- Images (last section) -->
+      <div style="margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid #eee;">
+
+        <div style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center;">
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/1.png"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/1.png"
+                alt="1"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/research/open-pit-mine-02.jpg"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/research/open-pit-mine-02.jpg"
+                alt="2"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+          <div class="pub-image" style="flex-shrink: 0; flex: 1 1 0; min-width: 0;">
+            <a
+              href="/images/research/open-pit-mine-03.jpg"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: inline-block; width: 100%;"
+            >
+              <img
+                src="/images/research/open-pit-mine-03.jpg"
+                alt="3"
+                style="height: 150px; width: 100%; max-width: 100%; object-fit: cover; display: block; border-radius: 6px;"
+              />
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
     </div>
 
   </details>
 
 </div>
-
