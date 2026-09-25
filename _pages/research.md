@@ -423,22 +423,27 @@ author_profile: true
 
       <p>
         <strong>Objective:</strong>
-        Estimation of land displacement in East Baton Rouge Parish, Louisiana, using InSAR, with comparisons with GNSS observations and machine learning models.
+        To estimate spatially distributed land displacement across East Baton Rouge Parish using Sentinel-1 InSAR and to compare satellite-derived deformation with the point-based information provided by GNSS observations. The study also aimed to investigate whether machine-learning models could be used to estimate vertical displacement from environmental and spatial factors.
       </p>
 
       <p>
         <strong>Data:</strong>
-        Sentinel-1 and GNSS data.
+        Sentinel-1 SAR observations acquired from 2017 to 2021, GNSS/CORS observations, and environmental and spatial predictor variables used for machine-learning-based displacement estimation.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        InSAR-based land displacement estimation, comparison with GNSS observations, and machine learning models.
+        Sentinel-1 InSAR was used to estimate vertical ground displacement over East Baton Rouge Parish and the results were compared with GNSS-based observations. Gradient Boosting Regression (GBR), Random Forest Regression (RFR), and K-Nearest Neighbors (KNN) models were then used to investigate and estimate spatial variations in displacement.
       </p>
 
       <p>
         <strong>Research Focus:</strong>
-        Land displacement estimation, comparison of InSAR and GNSS observations, and application of machine learning models.
+        Integration of wide-area InSAR deformation mapping with point-based GNSS observations and data-driven displacement modeling. The research particularly examines how spatial factors such as fault proximity and precipitation contribute to the observed deformatio pattern across urban and industrial areas.
+      </p>
+
+      <p>
+        <strong>Key Outcome:</strong>
+        Significant subsidence was identified in urban and industrial areas, including displacement of approximately −0.7 to −1 cm/year in residential areas between the Denham Spring and Baton Rouge faults. Among the tested machine-learning approaches, KNN provided the most comprehensive displacement estimation, while proximity to faults and precipitation emerged as influential predictors of deformation.
       </p>
 
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
@@ -547,24 +552,29 @@ author_profile: true
 
       <p>
         <strong>Objective:</strong>
-        Integrated analysis of Hashtgerd plain deformation using Sentinel-1 SAR, geological, and hydrological data.
+        To characterize the spatial and temporal deformation of the Hashtgerd aquifer between 2015 and 2020 using Sentinel-1 NSBAS-InSAR observations from both ascending and descending tracks. The study further aimed to explain the observed subsidence by integrating groundwater, precipitation, geological, and hydrogeological information and to improve the interpretation of the deformation mechanisms within the aquifer.
       </p>
 
       <p>
         <strong>Data:</strong>
-        Sentinel-1 SAR data, geological data, and hydrological data.
+        117 ascending and 108 descending Sentinel-1 images, groundwater-level observations from piezometers, CHIRPS precipitation data, exploratory-well information, geoelectric sections, and geological and land-use information for the Hashtgerd catchment.
       </p>
 
       <p>
         <strong>Methods:</strong>
-        Integrated analysis of deformation using Sentinel-1 SAR observations together with geological and hydrological data.
+        NSBAS-InSAR was applied independently to ascending and descending Sentinel-1 time series, followed by combination of the two viewing geometries to derive two-dimensional vertical and east-west displacement components. Groundwater-level fluctuations from piezometers were compared with InSAR displacement time series, while precipitation, well logs, and geoelectric sections were used to investigate hydrogeological and geological controls on the subsidence pattern.
       </p>
 
       <p>
         <strong>Research Focus:</strong>
-        Hashtgerd plain deformation and the integration of InSAR, geological, and hydrological observations.
+        The research focuses on large-scale land subsidence in an intensively exploited aquifer and on separating the observed deformation pattern from its underlying hydrological and geological controls. Particular attention is given to groundwater depletion, aquifer type, fine-sediment thickness, and the spatial distribution of agricultural groundwater abstraction.
       </p>
 
+      <p>
+        <strong>Key Outcome:</strong>
+        Maximum vertical subsidence reached approximately −30 cm/year, while the central part of the plain accumulated more than one meter of displacement over the study period. The analysis showed a close relationship between groundwater-level decline and subsidence, with long-term uncontrolled groundwater abstraction, confined-aquifer depletion, and fine-sediment compaction identified as major contributors to the subsidence bowl.
+      </p>
+      
       <h4 style="color: #2c3e50; margin-top: 1.4rem; margin-bottom: 0.8rem;">
         Research Outputs
       </h4>
