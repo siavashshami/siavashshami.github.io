@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Personal Website"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
