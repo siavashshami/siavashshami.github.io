@@ -4,12 +4,6 @@ main:
   - title: "Home"
     url: 
 
-  - title: "Research"
-    url: /research/
-
-  - title: "Codes & Scripts"
-    url: /codes_scripts/
-
   - title: "Experiences"
     url: /experiences/
 
@@ -18,3 +12,6 @@ main:
     
   - title: "Publications"
     url: /publications/   
+    
+  - title: "Codes & Scripts"
+    url: /codes_scripts/
