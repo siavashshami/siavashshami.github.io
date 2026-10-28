@@ -187,7 +187,7 @@ author_profile: true
 
     <p style="font-size: 1rem; line-height: 1.7; color: #444;">
       <strong>📌 Description:</strong><br>
-     This workflow implements a complete RUSLE-based soil erosion assessment in Google Earth Engine, computing all five factors (R, K, LS, C, P) using validated methods and multi-source remote-sensing datasets, and producing annual soil-loss maps and per-land-cover-class erosion statistics along with sanity checks. Two companion Python scripts then analyze the exported per-region CSVs, performing numerical stability analysis (coefficient of variation, risk index, annual change rates, cross-region comparison) and generating a composite publication-quality figure with stacked land-cover area bar charts and overlaid soil-erosion time series. 
+     This Google Earth Engine script implements a complete RUSLE-based soil erosion assessment for a user-defined AOI and year range. It computes all five RUSLE factors (R, K, LS, C, P) using validated methods and multi-source remote-sensing datasets, then produces annual soil-loss maps and per-land-cover-class erosion statistics. The script also performs sanity checks (mean soil loss by slope class and by NDVI class), prints factor and RUSLE summary statistics, and generates multi-year land-cover erosion results with grouped area and erosion-rate charts.
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
@@ -196,7 +196,7 @@ author_profile: true
 
     <p style="margin: 0.8rem 0 0.4rem;">
       <strong>📥 Download Link:</strong><br>
-      <a href="https://github.com/siavashshami/GEE-projects/tree/main/RUSLE-LULC-Climate" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+      <a href="https://github.com/siavashshami/GeoAI-research/tree/main/GEE-codes/RUSLE-LULC-Climate" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
         🔗 Download from GitHub
       </a>
     </p>
