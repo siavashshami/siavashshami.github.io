@@ -212,6 +212,41 @@ author_profile: true
 <details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
   <summary style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
     <span style="font-size: 1.4rem;">🗂️</span> 
+    2. Sentinel-5P Time-Series and Mean Map in Google Earth Engine
+    <span style="margin-left: auto; font-size: 0.9rem; color: #888; font-weight: 400;">
+      ⬇️ Click to expand
+    </span>
+  </summary>
+
+  <div style="padding-top: 1rem; border-top: 1px solid #eee; margin-top: 0.8rem;">
+
+    <p style="font-size: 1rem; line-height: 1.7; color: #444;">
+      <strong>📌 Description:</strong><br>
+     These two scripts load Sentinel-5P TROPOMI NO₂ data for a user-defined region of interest (table). Pollution_Chart.js filters NO₂ images for a one-month period, builds daily mean images, and charts the NO₂ column number density time series. Pollution_Map.js charts the mean time series, displays the period-mean NO₂ clipped to the ROI as a map layer, and exports the mean image to an Earth Engine asset. 
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
+      <span><strong>📁 Format:</strong> JavaScript</span>
+    </div>
+
+    <p style="margin: 0.8rem 0 0.4rem;">
+      <strong>📥 Download Link:</strong><br>
+      <a href="https://github.com/siavashshami/GeoAI-research/tree/main/GEE-codes/Sentinel-5P%20Time-Series%20and%20Mean%20Map%20in%20Google%20Earth%20Engine" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+        🔗 Download from GitHub
+      </a>
+    </p>
+
+    <div style="margin-top: 1.2rem; padding: 0.8rem 1rem; background: #f9f9f9; border-left: 4px solid #3498db; border-radius: 4px; font-size: 0.92rem; color: #555;">
+      <strong>📜 Citation:</strong><br>
+        Shami, S., Ranjgar, B., Bian, J., Khoshlahjeh Azar, M., Moghimi, A., Amani, M., & Naboureh, A. (2022). Trends of CO and NO2 Pollutants in Iran during COVID-19 pandemic using Timeseries Sentinel-5 images in Google Earth Engine. Pollutants
+    </div>
+    
+  </div>
+</details>
+---
+<details style="border: 1px solid #ddd; border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.2rem; background: #fafafa; transition: all 0.2s;">
+  <summary style="font-size: 1.1rem; font-weight: 600; color: #2c3e50; cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1.4rem;">🗂️</span> 
     1. GRACE TWS Trend Assessment in Google Earth Engine
     <span style="margin-left: auto; font-size: 0.9rem; color: #888; font-weight: 400;">
       ⬇️ Click to expand
