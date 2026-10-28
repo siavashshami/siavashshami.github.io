@@ -191,7 +191,7 @@ author_profile: true
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0; font-size: 0.95rem; background: #f0f4f8; padding: 0.8rem 1.2rem; border-radius: 6px;">
-      <span><strong>📁 Format:</strong> JavaScript, Python & Shapefile</span>
+      <span><strong>📁 Format:</strong> JavaScript</span>
     </div>
 
     <p style="margin: 0.8rem 0 0.4rem;">
@@ -203,7 +203,7 @@ author_profile: true
 
     <div style="margin-top: 1.2rem; padding: 0.8rem 1rem; background: #f9f9f9; border-left: 4px solid #3498db; border-radius: 4px; font-size: 0.92rem; color: #555;">
       <strong>📜 Citation:</strong><br>
-      Test
+      Naboureh, A., Shami, S., Zamani, A., & Bateni, S. M. (2027). Variation in RUSLE-estimated soil erosion responses to land use/land cover change across major climate zone. Catena
     </div>
     
   </div>
