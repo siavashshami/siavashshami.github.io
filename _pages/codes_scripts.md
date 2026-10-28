@@ -196,7 +196,7 @@ author_profile: true
 
     <p style="margin: 0.8rem 0 0.4rem;">
       <strong>📥 Download Link:</strong><br>
-      <a href="https://github.com/siavashshami/GeoAI-research/tree/main/GEE-codes/RUSLE-LULC-Climate" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
+      <a href="https://github.com/siavashshami/GeoAI-research/tree/main/GEE-codes/RUSLE-Based%20Soil%20Erosion%20Assessment%20in%20Google%20Earth%20Engine" target="_blank" style="color: #3498db; text-decoration: none; border-bottom: 1px dotted #3498db;">
         🔗 Download from GitHub
       </a>
     </p>
