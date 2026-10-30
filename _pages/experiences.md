@@ -37,6 +37,7 @@ Eyn Ol Ghozat Higher Education Institute, Iran | 2016
 - <a href="https://www.sciencedirect.com/journal/advances-in-space-research" target="_blank" style="text-decoration:none; color: inherit;">Advances in Space Research - Elsevier (1)</a><br>
 - <a href="https://www.sciencedirect.com/journal/remote-sensing-applications-society-and-environment" target="_blank" style="text-decoration:none; color: inherit;">Remote Sensing Applications: Society and Environment - Elsevier (3)</a><br>
 - <a href="https://www.techscience.com/journal/RIG" target="_blank" style="text-decoration:none; color: inherit;">Revue Internationale de Géomatique - Tech Science Press (1)</a>
+- <a href="https://link.springer.com/journal/11069" target="_blank" style="text-decoration:none; color: inherit;">Natural Hazards - Springer Nature (1)</a>
 
 
 ## Awards & Honors
