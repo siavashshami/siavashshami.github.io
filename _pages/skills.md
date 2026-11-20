@@ -38,7 +38,7 @@ author_profile: true
 
 ## Programming & GIS
 ---
-- Programming & Data Analysis: Python, NumPy, Pandas, Matplotlib
+- Programming & Data Analysis: Python (NumPy, Pandas, Matplotlib)
 - GIS & Remote Sensing Platforms: QGIS, Google Earth Engine
 - Operating Systems: Linux (Ubuntu)
 
