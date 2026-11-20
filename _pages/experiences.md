@@ -23,7 +23,7 @@ Eyn Ol Ghozat Higher Education Institute, Iran | 2016
 - **Research Collaboration - InSAR Applications | 2023–2024**<br>
 [Collaborated with Dr. Meisam Amani on InSAR-based investigations of landslides in New Zealand, dam deformation and shoreline changes in Canada, & open-pit mine deformation in South Africa]<br>
 
-- **InSAR & GIS Consultant/Research Collaborator - Bonyan Zamin Co. | 2022**<br>
+- **InSAR & GIS Research Collaborator - Bonyan Zamin Co. | 2022**<br>
 [Prepared annual InSAR-based surface displacement maps of Isfahan, Iran, for Isfahan Municipality, using Sentinel-1 data, PS-InSAR, GMTSAR, StaMPS, and QGIS]<br>
 
 
